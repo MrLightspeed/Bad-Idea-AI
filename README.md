@@ -6,7 +6,8 @@
 3. [Tokenomics](#tokenomics)
 4. [Solidity Code Safety](#solidity-code-safety)
 5. [Contributors](#contributors)
-6. [License](#license)
+6. [Socials](#socials)
+7. [License](#license)
 
 ---
 
@@ -36,6 +37,13 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 ## Contributors
 - **Code Custodian**: [Mr Lightspeed](https://cryptolistings.ai)
 - **Core Contributors**: Several anonymous developers
+
+---
+
+## Socials
+- [Twitter](https://twitter.com/badideaai)
+- [Discord](https://discord.gg/badideaai)
+- [Facebook](https://www.facebook.com/groups/badideaai/)
 
 ---
 
