@@ -13,7 +13,7 @@
 
 ---
 
-## [Version 1.1](#version-11) - Release Date
+## [Version 1.1](#version-11)
 ### Added
 - Released the BADIDEAAI bot with basic conversational capabilities.
 - Supported common text-based queries and responses.
@@ -23,7 +23,7 @@
 
 ---
 
-## [Version 1.2](#version-12) - Release Date
+## [Version 1.2](#version-12)
 ### Added
 - Introduced testing for user profile management features.
 
@@ -33,7 +33,7 @@
 
 ---
 
-## [Version 1.3](#version-13) - Release Date
+## [Version 1.3](#version-13)
 ### Changed
 - Enhanced the chatbot's ability to handle frequently asked questions.
 - Improved system performance and scalability.
@@ -43,7 +43,7 @@
 
 ---
 
-## [Version 1.4](#version-14) - Release Date
+## [Version 1.4](#version-14)
 ### Added
 - Beta support for rich media attachments.
 
@@ -56,7 +56,7 @@
 
 ---
 
-## [Version 1.5](#version-15) - Release Date
+## [Version 1.5](#version-15)
 ### Added
 - Implemented advanced sentiment analysis for better understanding user emotions.
 - Introduced proactive suggestions during conversations.
@@ -66,7 +66,7 @@
 
 ---
 
-## [Version 1.6](#version-16) - Release Date
+## [Version 1.6](#version-16)
 ### Added
 - Support for customizable chatbot personalities (currently in staging).
 
@@ -77,7 +77,7 @@
 
 ---
 
-## [Version 1.7](#version-17) - Release Date
+## [Version 1.7](#version-17)
 ### Added
 - Introduced a knowledge base integration for providing more accurate and up-to-date information (currently in staging).
 
@@ -90,7 +90,7 @@
 
 ---
 
-## [Version 1.8](#version-18) - Release Date
+## [Version 1.8](#version-18)
 ### Added
 - Added multi-language support, enabling conversations in multiple languages.
 
@@ -103,7 +103,7 @@
 
 ---
 
-## [Version 1.9 (Current Version)](#version-19) - Release Date
+## [Version 1.9 (Current Version)](#version-19)
 ### Added
 - Introduced enhanced natural language understanding capabilities for better query recognition.
 
