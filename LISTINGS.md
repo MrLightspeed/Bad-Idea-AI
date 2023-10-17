@@ -37,12 +37,12 @@
 - [DigitalCoinPrice](https://digitalcoinprice.com/coins/bad-idea-ai) (verified circulation supply)
 - [CryptoCompare](https://www.cryptocompare.com/coins/bad/overview) (verified circulation supply)
 - [CoinRanking](https://coinranking.com/coin/Un8X1DKEo+badideaai-bad) (verified circulation supply)
-- [WorldCoinIndex](https://www.worldcoinindex.com/coin/bad-idea-ai)
 - [CoinCodex](https://coincodex.com/crypto/bad-idea-ai/) (verified circulation supply)
 - [CoinCheckup](https://coincheckup.com/coins/bad-idea-ai) (verified circulation supply)
 - [Blockspot](https://blockspot.io/coin/bad-idea-ai/) (verified circulation supply)
 - [Messari.io](https://messari.io/project/bad-idea-ai) (verified circulation supply)
-
+- [WorldCoinIndex](https://www.worldcoinindex.com/coin/bad-idea-ai)
+  
 ---
 
 ## Products and Services
