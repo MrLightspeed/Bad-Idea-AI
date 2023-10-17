@@ -9,8 +9,8 @@
 - [Version 1.6](#version-16)
 - [Version 1.7](#version-17)
 - [Version 1.8](#version-18)
-- [Version 1.9 (Current Version)](#version-19)
-
+- [Version 1.9](#version-19)
+- [Version 2.0 (Current Version)](#version-20)
 ---
 
 ## [Version 1.1](#version-11)
@@ -103,7 +103,7 @@
 
 ---
 
-## [Version 1.9 (Current Version)](#version-19)
+## [Version 1.9](#version-19)
 ### Added
 - Introduced enhanced natural language understanding capabilities for better query recognition.
 
@@ -111,3 +111,18 @@
 - Improved the accuracy and relevance of responses to user queries.
 - Launched a new user-friendly interface for smoother interactions.
 - Optimized backend infrastructure for faster response times.
+
+---
+
+## [Version 2.0 (Current Version)](#version-20)
+### Added
+- Introduced Memory Retention on a Per Room Basis (GA): BadIdeaAI Bot now supports memory retention on a per room basis, ensuring contextually relevant conversations within specific rooms.
+
+### Changed
+- Performance Boost: Fine-tuned the bot's performance for faster response times and a smoother user experience.
+
+### Fixed
+- Enhanced Stability: Worked to eliminate bugs, resulting in improved stability and reduced chances of unexpected errors.
+  
+### Security
+- Included essential security updates to ensure the safety and privacy of your conversations.
