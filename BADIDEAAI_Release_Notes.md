@@ -115,14 +115,22 @@
 ---
 
 ## [Version 2.0 (Current Version)](#version-20)
-### Added
-- Introduced Memory Retention on a Per Room Basis (GA): BadIdeaAI Bot now supports memory retention on a per room basis, ensuring contextually relevant conversations within specific rooms.
+### Highlights
+- Memory retention on a per-room basis is now in General Availability.
+- Significant bug fixes and performance improvements.
+- Essential security updates to protect your data.
 
-### Changed
-- Performance Boost: Fine-tuned the bot's performance for faster response times and a smoother user experience.
+### New Features
+- Memory Retention on a Per Room Basis: Ensures that conversations remain contextually relevant within specific rooms.
 
-### Fixed
-- Enhanced Stability: Worked to eliminate bugs, resulting in improved stability and reduced chances of unexpected errors.
-  
-### Security
-- Included essential security updates to ensure the safety and privacy of your conversations.
+### Improvements
+- Performance Boost: Fine-tuned for faster response times and a smoother user experience.
+
+### Bug Fixes
+- Enhanced Stability: Reduced the chances of unexpected errors and disruptions.
+
+### Security Updates
+- Essential updates to keep your conversations safe and private.
+
+### Acknowledgments
+Thanks to our amazing community for their continued support and feedback.
