@@ -7,7 +7,8 @@
 4. [Solidity Code Safety](#solidity-code-safety)
 5. [Contributors](#contributors)
 6. [Socials](#socials)
-7. [License](#license)
+7. [Release Notes](#release-notes) 
+8. [License](#license)
 
 ---
 
@@ -44,6 +45,11 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 - [Twitter](https://twitter.com/badideaai)
 - [Discord](https://discord.gg/badideaai)
 - [Facebook](https://www.facebook.com/groups/badideaai/)
+
+---
+
+## Release Notes
+ - [Release Notes](https://github.com/MrLightspeed/Bad-Idea-AI/blob/main/BADIDEAAI_Release_Notes.md)
 
 ---
 
