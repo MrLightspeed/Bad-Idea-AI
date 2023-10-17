@@ -51,6 +51,10 @@
 - [ChangeNOW](https://changenow.io/buy/bad-eth)
 - [Guardarian](https://guardarian.com/buy-bad)
 
+### Whitelisted Swaps
+- [1inch](https://app.1inch.io/#/1/simple/swap/ETH/BAD)
+- [Uniswap](https://app.uniswap.org/swap?outputCurrency=0x32b86b99441480a7e5bd3a26c124ec2373e3f015)
+
 ### Wallets
 - [Metamask](https://portfolio.metamask.io/networks/1/tokens/bad-idea-ai/0x32b86b99441480a7e5bd3a26c124ec2373e3f015)
 - [Tangem](https://tangem.com/en/blog/post/bad-idea-ai-tangem/)
