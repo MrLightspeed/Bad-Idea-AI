@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Why Bad Idea AI?](#why-bad-idea-ai)
-3. [Tokenomics](#tokenomics)
+3. [ERC-20 Compliance](#erc-20-compliance)
 4. [Solidity Code Safety](#solidity-code-safety)
 5. [Contributors](#contributors)
 6. [Socials](#socials)
@@ -23,11 +23,15 @@ This project serves a unique purpose in the intersection of AI, blockchain, and 
 
 ---
 
-## Tokenomics
+## ERC-20 Compliance
 - **Token Name**: BAD IDEA AI
 - **Symbol**: BAD
 - **Initial Supply**: 831,041,059,897,327.3110117
 - **Decimals**: 18
+- **Smart Contract Features**: The token is burnable, allowing token holders to destroy their tokens.
+- **Contract Address**: [0x32b86b99441480a7e5bd3a26c124ec2373e3f015](https://etherscan.io/address/0x32b86b99441480a7e5bd3a26c124ec2373e3f015)
+- **Interactions**: The smart contract allows for standard ERC-20 interactions including transferring and burning of tokens. Note: Minting is only possible during the deployment phase.
+- **Solidity Version**: The contract is written in Solidity version 0.8.7.
 
 ---
 
@@ -46,20 +50,19 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 - [Twitter](https://twitter.com/badideaai)
 - [Discord](https://discord.gg/badideaai)
 - [Facebook](https://www.facebook.com/groups/badideaai/)
+- [CoinMarketCap](https://coinmarketcap.com/community/profile/BAD_IDEA_AI/)
 
 ---
 
 ## Release Notes
- - [Release Notes](https://github.com/MrLightspeed/Bad-Idea-AI/blob/main/BADIDEAAI_Release_Notes.md)
+- [Release Notes](https://github.com/MrLightspeed/Bad-Idea-AI/blob/main/BADIDEAAI_Release_Notes.md)
 
 ---
 
 ## Listings
- - [Listings](https://github.com/MrLightspeed/Bad-Idea-AI/blob/main/LISTINGS.md)
+- [Listings](https://github.com/MrLightspeed/Bad-Idea-AI/blob/main/LISTINGS.md)
 
 ---
 
 ## License
 This project is licensed under the MIT License.
-
----
