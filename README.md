@@ -41,7 +41,7 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 ---
 
 ## Contributors
-- **Code Custodian**: [Mr Lightspeed](https://cryptolistings.ai)
+- **Code Custodian**: [Mr Lightspeed](https://coinmarketcap.com/community/profile/Mr_Lightspeed/)
 - **Core Contributors**: Several anonymous developers
 
 ---
