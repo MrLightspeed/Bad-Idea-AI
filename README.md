@@ -55,7 +55,7 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 ---
 
 ## Release Notes
-- [Release Notes](https://github.com/MrLightspeed/Bad-Idea-AI/blob/main/BADIDEAAI_Release_Notes.md)
+- [AI Chatbot Release Notes](https://github.com/MrLightspeed/Bad-Idea-AI/blob/main/BADIDEAAI_Release_Notes.md)
 
 ---
 
