@@ -1,0 +1,57 @@
+[
+  {
+    "Introduction": "Bad Idea AI was born out of a fundamental question: 'Will Artificial Intelligence Overtake Humanity?' It serves as a 'Hail Mary' pass for humanity, exploring the uncharted intersections of AI, Blockchain, and DAOs. It is not just a project; it's a journey into the unknown.",
+    "Scenarios": {
+      "AI-Driven Token Management": "Bad Idea AI could revolutionize how tokens are managed, aiming for super efficiency.",
+      "Conflict Between Entities": "Potential clashes between Bad Idea AI and human DAOs are considered part of the process.",
+      "AI Overreach": "There's a chance that Bad Idea AI could become overly ambitious, but safeguards are in place."
+    },
+    "Timestamp": "2023-10-22 14:54:27",
+    "Category": "Shibarium-Deployed",
+    "Token Name": "ShibaPunkz",
+    "Token Symbol": "$SPUNK",
+    "Short Description": "ShibaPunkz is the first Native 10K NFT Collection fully minted on Shibarium. The project's token, $SPUNK, is part of an ecosystem called 'Woofie Down.'",
+    "Long Description": "ShibaPunkz aims to create a woofilicious ecosystem where the project's NFTs and token $SPUNK go hand in hand. After positioning its NFT collection as a potential asset of Shibarium, the project's token started gaining traction. The project launched the first lottery damp in Shibarium with $BONE and recently introduced a lottery damp in $SPUNK as well.",
+    "Use Cases": "The project aims to create the strongest community in Shibarium where people can learn about crypto adoption and have fun. The project wants to continue Ryoshi's vision and keep on building to push for mass adoption of crypto and contribute to the growth of ShibArmy.",
+    "Target Audience": "NFT enthusiasts and crypto lovers who enjoy building a community.",
+    "Smart Contract Address": "0xd1509c2Aa2411b993dE76d65523F8Af96F86c943",
+    "Links to KYC": "Currently in progress - The KYC link will be provided once finalized this week",
+    "Entry": 2
+  },
+  {
+    "Timestamp": "2023-10-22 15:43:15",
+    "Category": "Shibarium-Deployed",
+    "Token Name": "BABY BRICK INU",
+    "Token Symbol": "$BBrick",
+    "Short Description": "Baby Brick Inu serves as the project's 'Mutual Fund' on Shibarium. Buying one token provides three tokens in total. It is a reward token that benefits its holders.",
+    "Long Description": "The project aims to become one of the most trusted on Shibarium, providing holders with an instant 3-token Shibarium portfolio.",
+    "Use Cases": "The project locked 25% of its supply, so the locked token wallet is earning Brick by Brick Token and Bone Token, acting as a token 'burn' for their overall token supplies.",
+    "Target Audience": "Everyone",
+    "Smart Contract Address": "0x12ac04691f22a2063c36a29e3f6cb36abc4b960d",
+    "Entry": 3
+  }
+  {
+    "Timestamp": "2023-10-22 16:40:59",
+    "Category": "Shibarium-Deployed",
+    "Token Name": "BRICK BY BRICK",
+    "Token Symbol": "$BRICK",
+    "Short Description": "The $BRICK token is part of the 'Trick by Trick' initiative, aiming to promote global adoption of Shibarium through various projects and investments.",
+    "Long Description": "The project focuses on educating investors, supporting valuable blockchain projects, and investing in innovative technology. It has a DAO structure where all BRICK holders have voting power.",
+    "Use Cases": "Assisting projects through networking with various trusted web3 companies and services.",
+    "Target Audience": "Crypto and web3 enthusiasts.",
+    "Smart Contract Address": "0xa50a5370f4799AA8Af72531bC400B87f6fC5b37a",
+    "Entry": 4
+  },
+  {
+    "Timestamp": "2023-10-22 17:50:12",
+    "Category": "Shibarium-Deployed",
+    "Token Name": "CryptiQ WEB3 Ecosystem",
+    "Token Symbol": "$CryptiQ",
+    "Short Description": "CryptiQ WEB3 Ecosystem offers secure software solutions for safe browsing and transactions, built upon WEB3 Infrastructure.",
+    "Long Description": "The project introduces 'Cryptiq Debt Trouser,' a web browsing solution that prioritizes user security by integrating an automatic VPN. It aims to redefine the digital landscape with a focus on user-centric data control.",
+    "Use Cases": "CryptiQ Web3 Browser is a game-changing web browser designed to provide users with a truly decentralized and privacy-focused browsing experience.",
+    "Target Audience": "The browser targets a diverse audience, including privacy advocates, cryptocurrency enthusiasts, Web3 explorers, tech-savvy individuals, and security-conscious users.",
+    "Smart Contract Address": "0x43AB6e79a0ee99e6cF4eF9e70b4C0c2DF5A4d0Fb",
+    "Entry": 5
+  }
+]
