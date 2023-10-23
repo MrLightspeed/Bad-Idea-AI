@@ -8,50 +8,56 @@
     },
     "Timestamp": "2023-10-22 14:54:27",
     "Category": "Shibarium-Deployed",
-    "Token Name": "ShibaPunkz",
-    "Token Symbol": "$SPUNK",
-    "Short Description": "ShibaPunkz is the first Native 10K NFT Collection fully minted on Shibarium. The project's token, $SPUNK, is part of an ecosystem called 'Woofie Down.'",
-    "Long Description": "ShibaPunkz aims to create a woofilicious ecosystem where the project's NFTs and token $SPUNK go hand in hand. After positioning its NFT collection as a potential asset of Shibarium, the project's token started gaining traction. The project launched the first lottery damp in Shibarium with $BONE and recently introduced a lottery damp in $SPUNK as well.",
-    "Use Cases": "The project aims to create the strongest community in Shibarium where people can learn about crypto adoption and have fun. The project wants to continue Ryoshi's vision and keep on building to push for mass adoption of crypto and contribute to the growth of ShibArmy.",
+    "Token Name": "SHIBAPUNKZ",
+    "Token Symbol": "SPUNK",
+    "Short Description": "ShibaPunkz is the first 10,000 NFT collection fully minted on Shibarium, featuring its own token, SPUNK, as part of the 'Woofie Town' ecosystem. The project aims to build a strong community focused on crypto adoption and entertainment. It also integrates with $BONE for various features.",
+    "Long Description": "ShibaPunkz is a pioneering NFT collection, being the first to fully mint 10,000 NFTs on the Shibarium blockchain. It features its own native token, SPUNK, which is integral to its 'Woofie Town' ecosystem. After establishing its NFT collection as a potential original cornerstone of Shibarium, the SPUNK token has gained increasing traction. The project has also launched the first lottery dapp on Shibarium, initially using $BONE and later incorporating SPUNK. The token is slated to be the currency for future minting and will play a central role in upcoming Play-to-Earn (P2E) games, where the NFTs will be key characters. ShibaPunkz aims to build the strongest community in Shibarium, educating people on crypto adoption while providing entertainment. It seeks to continue the vision of Ryoshi by pushing for mass crypto adoption and contributing to the growth of the ShibArmy.",
     "Target Audience": "NFT enthusiasts and crypto lovers who enjoy building a community.",
-    "Smart Contract Address": "0xd1509c2Aa2411b993dE76d65523F8Af96F86c943",
-    "Links to KYC": "Currently in progress - The KYC link will be provided once finalized this week",
-    "Entry": 2
+    "KYC": "Pending",
+    "Audit": "No"
   },
   {
     "Timestamp": "2023-10-22 15:43:15",
     "Category": "Shibarium-Deployed",
     "Token Name": "BABY BRICK INU",
-    "Token Symbol": "$BBrick",
-    "Short Description": "Baby Brick Inu serves as the project's 'Mutual Fund' on Shibarium. Buying one token provides three tokens in total. It is a reward token that benefits its holders.",
-    "Long Description": "The project aims to become one of the most trusted on Shibarium, providing holders with an instant 3-token Shibarium portfolio.",
-    "Use Cases": "The project locked 25% of its supply, so the locked token wallet is earning Brick by Brick Token and Bone Token, acting as a token 'burn' for their overall token supplies.",
+    "Token Symbol": "BBRICK",
+    "Short Description": "Baby Brick Inu is a Shibarium-based 'Mutual Fund' offering a 3-token reward system. The project aims to become one of the most trusted on Shibarium, providing an instant diversified portfolio for holders. It also rewards with $BONE.",
+    "Long Description": "Baby Brick Inu serves as a 'Mutual Fund' within the Shibarium ecosystem, offering a unique 3-token reward system. When investors buy one token, they effectively receive three tokens in total, diversifying their Shibarium portfolio instantly. The project's primary focus is to reward its holders 'Brick by Brick,' enabling them to earn $BONE tokens as well. Baby Brick Inu has locked 25% of its supply, which not only adds a layer of security but also acts as a token 'burn' mechanism. This locked wallet accrues both Brick by Brick Tokens and $BONE tokens, effectively reducing their overall supplies. The project aims to establish itself as one of the most trusted initiatives on Shibarium, offering both diversification and rewards to its community.",
     "Target Audience": "Everyone",
-    "Smart Contract Address": "0x12ac04691f22a2063c36a29e3f6cb36abc4b960d",
-    "Entry": 3
-  }
+    "KYC": "Yes",
+    "Audit": "No"
+  },
   {
     "Timestamp": "2023-10-22 16:40:59",
     "Category": "Shibarium-Deployed",
     "Token Name": "BRICK BY BRICK",
-    "Token Symbol": "$BRICK",
-    "Short Description": "The $BRICK token is part of the 'Trick by Trick' initiative, aiming to promote global adoption of Shibarium through various projects and investments.",
-    "Long Description": "The project focuses on educating investors, supporting valuable blockchain projects, and investing in innovative technology. It has a DAO structure where all BRICK holders have voting power.",
-    "Use Cases": "Assisting projects through networking with various trusted web3 companies and services.",
+    "Token Symbol": "BRICK",
+    "Short Description": "$BRICK is a token fueling the 'Brick by Brick' initiative, aimed at promoting global Shibarium adoption. The DAO wallet, funded by a 3/3 tax and 1.5% $BONE rewards, supports various blockchain projects and innovations.",
+    "Long Description": "Brick by Brick is a comprehensive initiative powered by the BRICK token, with a limited supply of 100,000 and a 3/3 tax structure. It aims to accelerate global adoption of Shibarium, a blockchain platform. The initiative focuses on educating investors, supporting valuable blockchain projects, and investing in innovative technologies. A 1.5% $BONE reward is distributed to all BRICK holders, while another 1.5% goes into the DAO wallet for various use-cases like marketing and development. BRICK holders can vote in the DAO and submit suggestions or project proposals, which are reviewed by Teh Foundation. Voting is conducted through the BRICK DAO Dapp, and holders can 'sacrifice' their tokens for increased influence on critical decisions. The initiative offers affordable promotional opportunities and potential for direct DAO investments.",
     "Target Audience": "Crypto and web3 enthusiasts.",
-    "Smart Contract Address": "0xa50a5370f4799AA8Af72531bC400B87f6fC5b37a",
-    "Entry": 4
+    "KYC": "Yes",
+    "Audit": "No"
   },
   {
     "Timestamp": "2023-10-22 17:50:12",
     "Category": "Shibarium-Deployed",
-    "Token Name": "CryptiQ WEB3 Ecosystem",
-    "Token Symbol": "$CryptiQ",
-    "Short Description": "CryptiQ WEB3 Ecosystem offers secure software solutions for safe browsing and transactions, built upon WEB3 Infrastructure.",
-    "Long Description": "The project introduces 'Cryptiq Debt Trouser,' a web browsing solution that prioritizes user security by integrating an automatic VPN. It aims to redefine the digital landscape with a focus on user-centric data control.",
-    "Use Cases": "CryptiQ Web3 Browser is a game-changing web browser designed to provide users with a truly decentralized and privacy-focused browsing experience.",
+    "Token Name": "CRYPTIQ WEB3 Ecosystem",
+    "Token Symbol": "CRYPTIQ",
+    "Short Description": "Cryptiq Web3 Browser is a decentralized, privacy-focused web browser built on blockchain technology. It aims to redefine web browsing by prioritizing user security, data privacy, and seamless access to the decentralized web. It offers enhanced privacy with $BONE.",
+    "Long Description": "Cryptiq Web3 Browser is a groundbreaking web browser designed to offer a decentralized and privacy-centric online experience. Built on Web3 principles, it leverages blockchain technology to give users control over their data and online interactions. The browser features an automatic VPN and robust encryption, ensuring a secure and anonymous browsing experience. It serves as a gateway to decentralized applications (dApps) and decentralized finance (DeFi), allowing for direct interaction with blockchain networks. The browser also offers high performance with fast loading times and optimized resource management. Targeting a diverse audience, including privacy advocates and crypto enthusiasts, Cryptiq Web3 Browser combines privacy, Web3 integration, and usability, aiming to set new standards in web browsing.",
     "Target Audience": "The browser targets a diverse audience, including privacy advocates, cryptocurrency enthusiasts, Web3 explorers, tech-savvy individuals, and security-conscious users.",
-    "Smart Contract Address": "0x43AB6e79a0ee99e6cF4eF9e70b4C0c2DF5A4d0Fb",
-    "Entry": 5
+    "KYC": "Yes",
+    "Audit": "No"
+  },
+  {
+    "Timestamp": "2023-10-23 03:02:43",
+    "Category": "Shibarium-Deployed",
+    "Token Name": "WOOF Swap",
+    "Token Symbol": "WOOF",
+    "Short Description": "WOOF Swap is a ve(3,3) Decentralized Exchange (DEX) built on Shibarium, focusing on liquidity and community-driven governance. It offers fast, cost-effective transactions and a robust incentivization model. Join the ShibArmy and earn rewards in $BONE.",
+    "Long Description": "WOOF Swap is a community-driven DEX on the Shibarium network, offering a seamless blend of liquidity, voting, and rewards. It leverages zk-rollups and zero-knowledge proofs for efficient transactions. The protocol ensures a balanced distribution of rewards and emissions, encouraging strategic voting and early participation. Several measures have been implemented to promote productive gauges and ensure emissions are directed toward beneficial liquidity sources. WOOF Swap aims for a sustainable growth trajectory and long-term value for all stakeholders.",
+    "Target Audience": "ShibArmy",
+    "KYC": "No",
+    "Audit": "No"
   }
 ]
