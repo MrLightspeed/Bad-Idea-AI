@@ -78,7 +78,7 @@
     "Short Description": "Cryptiq Web3 Browser is a decentralized, privacy-focused web browser built on blockchain technology. It aims to redefine web browsing by prioritizing user security, data privacy, and seamless access to the decentralized web. It offers enhanced privacy with $BONE.",
     "Long Description": "Cryptiq Web3 Browser is a groundbreaking web browser designed to offer a decentralized and privacy-centric online experience. Built on Web3 principles, it leverages blockchain technology to give users control over their data and online interactions. The browser features an automatic VPN and robust encryption, ensuring a secure and anonymous browsing experience. It serves as a gateway to decentralized applications (dApps) and decentralized finance (DeFi), allowing for direct interaction with blockchain networks. The browser also offers high performance with fast loading times and optimized resource management. Targeting a diverse audience, including privacy advocates and crypto enthusiasts, Cryptiq Web3 Browser combines privacy, Web3 integration, and usability, aiming to set new standards in web browsing.",
     "Target Audience": "The browser targets a diverse audience, including privacy advocates, cryptocurrency enthusiasts, Web3 explorers, tech-savvy individuals, and security-conscious users.",
-    "KYC": "truue",
+    "KYC": "true",
     "Audit": "false",
     "Website": "https://cryptiq.online",
     "Whitepaper": "https://docs.google.com/presentation/d/1-Q8-XyNNK8a5NE2F0Ch0yGFyAQap6437cv63oDQO-AQ/edit?usp=sharing",
@@ -109,5 +109,26 @@
     "Medium": "https://medium.com/@woofswap",
     "Youtube": "",
     "Facebook": ""
-  }
+  },
+  {
+  "Timestamp": "2023-10-24 9:02:43",
+  "Category": "Shibarium-Deployed",
+  "Token Name": "Bark",
+  "Token Symbol": "BARK",
+  "Contract Address": "0xD2e9e1a41E97912F3f966A3553E4C9Bb6861f0a6",
+  "Blockchain Explorer": "https://www.shibariumscan.io/token/0xD2e9e1a41E97912F3f966A3553E4C9Bb6861f0a6",
+  "Short Description": "Bark is a token that rewards and burns $SHIB for its holders.",
+  "Long Description": "Bark rewards its holders with 2% $SHIB and incinerates 1% $SHIB on each transaction. Initially, the liquidity pool was burned, and half of the supply was sent to Vitalik Buterin, emulating the original $SHIB team. Bark aims to bolster both the $SHIB and Shibarium communities by offering rewards. It is the pioneering $SHIB reward and burn token on the Shibarium blockchain.",
+  "Target Audience": "Enthusiasts of $SHIB, Shiba Inu, and Shibarium, along with anyone interested in earning $SHIB.",
+  "KYC": "false",
+  "Audit": "true",
+  "Website": "Bark4shib.com",
+  "Whitepaper": "",
+  "X": "https://x.com/Bark4shib",
+  "Telegram": "https://t.me/Barkonshibarium",
+  "Discord": "",
+  "Medium": "",
+  "Youtube": "",
+  "Facebook": ""
+}
 ]
