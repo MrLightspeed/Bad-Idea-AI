@@ -130,5 +130,26 @@
   "Medium": "",
   "Youtube": "",
   "Facebook": ""
+},
+  {
+  "Timestamp": "2023-10-25 12:00:00",
+  "Category": "Ethereum-Deployed",
+  "Token Name": "Coinmerge",
+  "Token Symbol": "$CMOS",
+  "Contract Address": "0x87869A9789291A6cEC99f3c3Ef2fF71fcEb12a8e",
+  "Blockchain Explorer": "https://etherscan.io/token/0x87869A9789291A6cEC99f3c3Ef2fF71fcEb12a8e",
+  "Short Description": "Coinmerge is a multi-product enterprise focusing on decentralized finance and Web3 technologies. It offers an all-in-one Dapp system, CMOS, and has a strong social presence with over 35k followers.",
+  "Long Description": "Coinmerge Technologies INC., a registered C-Corporation in Texas, USA, has been in the decentralized finance space for over two years. They offer a range of products and services, including the Coinmerge Operating System (CMOS), which hosts various decentralized applications. Their primary liquidity pair is $BONE, and they have a strong collaboration with Shibarium and other Shiba-related projects. They also offer Web3 Shards, providing aggregated and live data as well as APIs custom-built in-house.",
+  "Target Audience": "Individuals, communities, traders, and developers interested in Web3 and decentralized finance.",
+  "KYC": "true",
+  "Audit": "true",
+  "Website": "https://coinmerge.io",
+  "Whitepaper": "https://coinmerge.io/WhitePaper-CMOS.pdf",
+  "X": "https://x.com/coinmerge",
+  "Telegram": "https://t.me/CMOS_MAIN",
+  "Discord": "",
+  "Medium": "",
+  "Youtube": "",
+  "Facebook": ""
 }
 ]
