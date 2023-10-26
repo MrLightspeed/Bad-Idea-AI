@@ -11,7 +11,7 @@
 - [Version 1.8](#version-18)
 - [Version 1.9](#version-19)
 - [Version 2.0](#version-20)
-- [Version 2.1 (Current Version)](#version-21)- 
+- [Version 2.1 (Current Version)](#version-21)
 ---
 
 ## [Version 1.1](#version-11)
