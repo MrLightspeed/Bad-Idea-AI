@@ -10,7 +10,8 @@
 - [Version 1.7](#version-17)
 - [Version 1.8](#version-18)
 - [Version 1.9](#version-19)
-- [Version 2.0 (Current Version)](#version-20)
+- [Version 2.0](#version-20)
+- [Version 2.1 (Current Version)](#version-21)- 
 ---
 
 ## [Version 1.1](#version-11)
@@ -114,12 +115,7 @@
 
 ---
 
-## [Version 2.0 (Current Version)](#version-20)
-### Highlights
-- Memory retention on a per-room basis is now in General Availability.
-- Significant bug fixes and performance improvements.
-- Essential security updates to protect your data.
-
+## [Version 2.0](#version-20)
 ### New Features
 - Memory Retention on a Per Room Basis: Ensures that conversations remain contextually relevant within specific rooms.
 
@@ -131,6 +127,29 @@
 
 ### Security Updates
 - Essential updates to keep your conversations safe and private.
+
+---
+
+## [Version 2.1 (Current Version)](#version-21)
+### Highlights
+- Enhanced Security with Link Prevention
+- New Advertising Space
+- Significant Knowledgebase Update
+- Inclusion of Additional NL-Based Nuances
+
+### Added
+#### Link Prevention for Enhanced Security
+We've added a new feature that prevents the bot from repeating URLs provided by users. This is part of our ongoing commitment to user safety and conversation integrity.
+
+#### Advertising Space
+We're excited to introduce our new 'Advertising Space.' This feature aims to increase our visibility and revenue by allowing for effective advertising placements.
+
+#### Additional NL-Based Nuances
+We've enriched the bot's capabilities by adding more Natural Language (NL) based nuances. This ensures higher-quality, personalized, and contextually aware conversations.
+
+### Changed
+#### Knowledgebase Update
+We've updated our Knowledgebase to provide more comprehensive and current information. This is part of our commitment to keeping our users informed and engaged.
 
 ### Acknowledgments
 Thanks to our amazing community for their continued support and feedback.
