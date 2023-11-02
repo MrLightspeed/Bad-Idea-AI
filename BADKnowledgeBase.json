@@ -1,7 +1,7 @@
 [
 {
   "Timestamp": "2023-10-29T00:00:00Z",
-  "Category": "Shibarium-Integrated",
+  "Category": "Shibarium-Deployed",
   "Company Name": "Shibacals",
   "Token Symbol": null,
   "Contract Address": "N/A",
@@ -252,5 +252,27 @@
     "Medium": "https://medium.com/@ChewySwap",
     "Youtube": null,
     "Facebook": null
+},
+{
+  "Timestamp": "2023-11-02T19:35:16Z",
+  "Category": "Shibarium-Planned",
+  "Company Name": "The Shiba Sequoia Forest Lads NFT Collection",
+  "Token Symbol": null,
+  "Contract Address": null,
+  "Blockchain Explorer": null,
+  "Short Description": "A unique 10,000-piece music NFT collection featuring 25 songs from web3 musicians, 3D artwork, and tangible benefits including annual festival tickets, music publishing rights, and artwork IP rights.",
+  "Long Description": "The Shiba Sequoia Forest Lads NFT Collection comprises 10,000 unique NFTs, each featuring a song from web3 musicians, 3D artwork created by the project initiator, and a myriad of benefits. Holders of these NFTs gain annual access to all ShibaFest festivals, publishing rights to the music, and intellectual property rights to the artwork. In a unique twist, each NFT also includes a claim for a Giant Sequoia Tree clone, originating from a tree planted by the musicians at the festivals. The project is establishing nurseries, festivals, and other businesses to provide rewards to NFT holders, liquidity for the DAO, and support for the entire ecosystem. Through art, music, blockchain technology, and tree preservation, this collection and DAO aim to enrich both local and web3 communities, adding value to local economies and the Shibarium platform.",
+  "Target Audience": "NFT Enthusiasts on Shibarium Blockchain",
+  "KYC": false,
+  "Audit": false,
+  "Website": null,
+  "Whitepaper": null,
+  "Twitter": null,
+  "Telegram": null,
+  "Discord": null,
+  "Medium": null,
+  "Youtube": null,
+  "Facebook": null,
+  "Instagram": null
 }
 ]
