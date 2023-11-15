@@ -13,7 +13,7 @@
             "target_audience": "Crypto enthusiasts and the general public interested in physical goods with blockchain integration.",
             "kyc": false,
             "audit": false,
-            "website": "https://www.shibacals.com/",
+            "website": "https://www.shibacals.com",
             "whitepaper": null,
             "twitter": "https://www.twitter.com/shibacals",
             "telegram": null,
@@ -21,7 +21,7 @@
             "medium": null,
             "youtube": null,
             "facebook": "https://www.facebook.com/profile.php?id=100093555992407",
-            "instagram": "https://www.instagram.com/shibacals_/"
+            "instagram": "https://www.instagram.com/shibacals_"
         }
     },
     "Shiba Punkz": {
@@ -45,7 +45,8 @@
             "discord": null,
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Baby Brick Inu": {
@@ -69,7 +70,8 @@
             "discord": null,
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Brick by Brick": {
@@ -83,7 +85,7 @@
             "explorer": "https://www.shibariumscan.io/token/0xa50a5370f4799AA8Af72531bC400B87f6fC5b37a",
             "short_description": "$BRICK is a token fueling the 'Brick by Brick' initiative, aimed at promoting global Shibarium adoption. The DAO wallet, funded by a 3/3 tax and 1.5% $BONE rewards, supports various blockchain projects and innovations.",
             "long_description": "Brick by Brick is a comprehensive initiative powered by the $BRICK token, with a limited supply of 100,000 and a 3/3 tax structure. It aims to accelerate global adoption of Shibarium, a blockchain platform. The initiative focuses on educating investors, supporting valuable blockchain projects, and investing in innovative technologies. A 1.5% $BONE reward is distributed to all BRICK holders, while another 1.5% goes into the DAO wallet for various use-cases like marketing and development. $BRICK holders can vote in the DAO and submit suggestions or project proposals, which are reviewed by Teh Foundation. Voting is conducted through the $BRICK DAO Dapp, and holders can 'sacrifice' their tokens for increased influence on critical decisions. The initiative offers affordable promotional opportunities and potential for direct DAO investments.",
-            "target _audience": "Crypto and web3 enthusiasts.",
+            "target_audience": null,
             "kyc": true,
             "audit": false,
             "website": "https://brickonshib.com/",
@@ -93,7 +95,8 @@
             "discord": null,
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Woof Swap": {
@@ -104,20 +107,21 @@
             "token_name": "WOOF Swap",
             "token_symbol": "$WOOF",
             "contract_address": "0xD0daa7B6ff1B40d3cc6F0B2Cf7E85cB993D1c834",
-            "blockchain_explorer": "https://www.shibariumscan.io/token/0xD0daa7B6ff1B40d3cc6F0B2Cf7E85cB993D1c834",
+            "explorer": null,
             "short_description": "WOOF Swap is a ve(3,3) DEX on Shibarium, focusing on liquidity and community governance. It offers fast transactions and incentivization. Earn rewards in $BONE with the ShibArmy.",
             "long_description": "WOOF Swap is a community-led DEX on Shibarium, offering liquidity, voting, and rewards. Utilizing zk-rollups for efficiency, the protocol balances reward distribution and encourages strategic voting. Measures are in place to direct emissions to beneficial liquidity sources, aiming for sustainable growth and long-term value.",
             "target_audience": "ShibArmy",
             "kyc": false,
             "audit": false,
-            "website": "https://www.woofswap.finance/",
+            "website": "https://www.woofswap.finance",
             "whitepaper": "https://woofswap.gitbook.io/woofswap/introduction/woofswap",
             "twitter": "https://x.com/woofswap",
             "telegram": "https://t.me/woofswap",
             "discord": "https://discord.com/invite/Q8qGcTuSUK",
             "medium": "https://medium.com/@woofswap",
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Bark": {
@@ -131,7 +135,7 @@
             "explorer": "https://www.shibariumscan.io/token/0xD2e9e1a41E97912F3f966A3553E4C9Bb6861f0a6",
             "short_description": "Bark is a token that rewards and burns $SHIB for its holders.",
             "long_description": "Bark offers its holders 2% $SHIB rewards and burns 1% $SHIB per transaction. The initial liquidity pool was burned, and half the supply was sent to Vitalik Buterin, following $SHIB's original strategy. Bark aims to strengthen both $SHIB and Shibarium communities through its rewards and is the first $SHIB reward and burn token on Shibarium.",
-            "target _audience": "Enthusiasts of $SHIB, Shiba Inu, and Shibarium, as well as those interested in earning $SHIB.",
+            "target_audience": null,
             "kyc": false,
             "audit": true,
             "website": "https://Bark4shib.com",
@@ -141,7 +145,8 @@
             "discord": null,
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Coinmerge Operating System": {
@@ -165,7 +170,8 @@
             "discord": null,
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Sharbi": {
@@ -189,7 +195,8 @@
             "discord": null,
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Baby Spunk": {
@@ -213,7 +220,8 @@
             "discord": null,
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Marswap Farming Token": {
@@ -237,7 +245,8 @@
             "discord": "https://discord.gg/P9B49s3aS",
             "medium": null,
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "Chewy Swap": {
@@ -261,7 +270,8 @@
             "discord": "https://discord.gg/DHVXHuPCy4",
             "medium": "https://medium.com/@ChewySwap",
             "youtube": null,
-            "facebook": null
+            "facebook": null,
+            "instagram": null
         }
     },
     "The Shiba Sequoia Forest Lads NFT Collection": {
