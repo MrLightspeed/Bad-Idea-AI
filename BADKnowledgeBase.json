@@ -1,4 +1,4 @@
-[
+[[
 {
     "Timestamp": "2023-10-29T00:00:00Z",
     "Category": "Shibarium-Deployed",
@@ -19,9 +19,8 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": "https://www.facebook.com/profile.php?id=100093555992407",
-    "Instagram": "https://www.instagram.com/shibacals_/",
-},
-{
+    "Instagram": "https://www.instagram.com/shibacals_/"
+  },{
     "Timestamp": "2023-10-22T14:54:27Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "SHIBAPUNKZ",
@@ -41,8 +40,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-22T15:43:15Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "BABY BRICK INU",
@@ -62,8 +60,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-22T16:40:59Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "BRICK BY BRICK",
@@ -83,8 +80,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-23T03:02:43Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "WOOF Swap",
@@ -104,8 +100,7 @@
     "Medium": "https://medium.com/@woofswap",
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-23T03:02:43Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "WOOF Swap",
@@ -146,8 +141,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-25T12:00:00Z",
     "Category": "Ethereum-Deployed",
     "Token Name": "Coinmerge",
@@ -167,8 +161,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-28T14:37:00Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "Sharbi",
@@ -188,8 +181,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-28T16:58:00Z",
     "Category": "Shibarium-Deployed",
     "TokenName": "BabySPUNK",
@@ -209,8 +201,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-29T07:58:00Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "Marswap Farming Token",
@@ -230,8 +221,7 @@
     "Medium": null,
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
     "Timestamp": "2023-10-29T11:33:00Z",
     "Category": "Shibarium-Deployed",
     "Token Name": "ChewySwap",
@@ -251,8 +241,7 @@
     "Medium": "https://medium.com/@ChewySwap",
     "Youtube": null,
     "Facebook": null,
-},
-{
+  },{
   "Timestamp": "2023-11-02T19:35:16Z",
   "Category": "Shibarium-Planned",
   "Company Name": "The Shiba Sequoia Forest Lads NFT Collection",
@@ -274,4 +263,5 @@
   "Facebook": null,
   "Instagram": null
 }
+]
 ]
