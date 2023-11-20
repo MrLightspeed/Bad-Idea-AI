@@ -298,5 +298,30 @@
       "facebook": null,
       "instagram": null
     }
+  },
+  "SimpleHub": {
+    "2023-11-20T00:00:00Z": {
+      "timestamp": "2023-11-20T00:00:00Z",
+      "category": "Innovative Crypto Project",
+      "project_name": "SimpleHub",
+      "token_name": "SimpleHub",
+      "token_symbol": "SHUB",
+      "contract_address": "Not specified",
+      "explorer": "Not specified",
+      "short_description": "SimpleHub is an innovative project aiming to simplify cryptocurrency experiences for users at all levels.",
+      "long_description": "SimpleHub is a comprehensive platform that integrates top utilities from various projects, including bots, crypto wallets, and tools. It's designed to streamline the crypto experience, offering powerful tools and educational resources in a single platform. Features include Anonymous Swaps and a diverse bot collection, making crypto more accessible and secure.",
+      "target_audience": "Crypto enthusiasts of all levels seeking a simplified and comprehensive crypto experience.",
+      "kyc": "Not specified",
+      "audit": "Not specified",
+      "website": "https://simplehub.dev/",
+      "whitepaper": "https://simplehub.gitbook.io/simplehub-whitepaper/",
+      "twitter": "https://x.com/simplehubdev",
+      "telegram": "https://t.me/simplehubdev",
+      "discord": "Not specified",
+      "medium": "Not specified",
+      "youtube": "Not specified",
+      "facebook": "Not specified",
+      "instagram": "Not specified",
+    }    
   }
 }
