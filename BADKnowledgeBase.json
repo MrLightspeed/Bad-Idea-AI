@@ -323,5 +323,30 @@
             "facebook": "Not specified",
             "instagram": "Not specified"
         }
+    },
+    "Bad Idea AI": {
+        "2023-11-22T00:00:00Z": {
+            "timestamp": "2023-11-22T00:00:00Z",
+            "category": "Blockchain + A.I. + DAO",
+            "project_name": "Bad Idea AI",
+            "token_name": "Bad Idea AI",
+            "token_symbol": "$BAD",
+            "contract_address": "0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
+            "explorer": "https://etherscan.io/token/0x32b86b99441480a7e5bd3a26c124ec2373e3f015",
+            "short_description": "Bad Idea AI is a decentralized experiment combining Blockchain, AI, and DAOs in a unique, meme-worthy concoction, aiming to test AI's role in society.",
+            "long_description": "Bad Idea AI is a bold experiment that combines AI, Blockchain, and DAOs in a decentralized ecosystem. It aims to test whether AI can collaborate with humans for societal advancement or lead to a dystopian future. The project emphasizes decentralized nature and community involvement, making it a collective effort to ensure AI's benefits to humanity.",
+            "target_audience": "Tech enthusiasts, blockchain and AI communities, and those interested in experimental crypto projects.",
+            "kyc": false,
+            "audit": "https://skynet.certik.com/projects/bad-idea",
+            "website": "https://badidea.ai",
+            "whitepaper": "https://static1.squarespace.com/BAD+IDEA+AI+WHITEPAPER+v1.0.pdf",
+            "twitter": "https://twitter.com/BadIdeaAI",
+            "telegram": "https://t.me/BadIdeaAI",
+            "discord": "https://discord.gg/BadIdeaAI",
+            "medium": "https://github.com/MrLightspeed/Bad-Idea-AI",
+            "youtube": null,
+            "facebook": "https://www.facebook.com/BadIdeaAI",
+            "instagram": null
+        }
     }
 }
