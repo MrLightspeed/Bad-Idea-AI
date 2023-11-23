@@ -1,4 +1,37 @@
 {
+    "The_Shib_Paper": {
+        "2023-10-29T00:00:00Z": {
+           "timestamp": "2023-11-22T00:00:00Z",
+           "category": "Blockchain Framework",
+           "document_name": "The Shib Paper",
+           "key_features": [
+               "Right to Access: Ensuring every Shibizen has access to Shibarium blockchain",
+               "Blockchain Integrity: Adherence to high standards of integrity and accuracy",
+               "Proof-of-Stake: Utilizing a consensus mechanism involving Delegators and Validators",
+               "Delegators' Role: Allocating tokens to Validators for network security",
+               "Validators' Role: Operating nodes and verifying transactions for network efficiency",
+               "Increasing Validator Criteria: Ensuring Validator competence and trustworthiness",
+               "AI Engagement Principles: Prioritizing fairness and transparency in AI use",
+               "AI System Standards: Commitment to unbiased and transparent AI",
+               "Digital Ownership: Exclusive ownership of digital identities by Shibizens",
+               "Responsible Use of Identity: Refraining from identity theft or misrepresentations",
+               "Technological Stewardship: Shared responsibility in technological enhancement",
+               "Equitable Access: Obligation to provide equal access to technology",
+               "Self-Sovereignty: Users control their personal information",
+               "Community-Centric: Focusing on collective participation and governance",
+               "Decentralization: Strengthening network decentralization for security",
+               "Innovation Emphasis: Encouraging unprecedented technological advancements",
+               "Ethical AI Usage: Abstaining from AI misuse or manipulation",
+               "Transparency in Operations: Ensuring clear and honest blockchain interactions",
+               "User-Centric Design: Tailoring technologies for comprehensive user participation",
+               "Shared Technological Growth: Commitment to enhancing the Shibarium ecosystem"
+           ],
+           "whitepaper": "https://www.shibarium.com/TheShibPaper.pdf",
+           "core_principles": "Decentralization, Integrity, Transparency, Innovation",
+           "target_audience": "Shibizens, Blockchain Enthusiasts, Technologists",
+           "website": "https://www.shibarium.com"
+        }
+    },
     "Shibacals": {
         "2023-10-29T00:00:00Z": {
             "timestamp": "2023-10-29T00:00:00Z",
