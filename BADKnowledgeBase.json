@@ -369,6 +369,8 @@
             "short_description": "Bad Idea AI is a decentralized experiment combining Blockchain, AI, and DAOs in a unique, meme-worthy concoction, aiming to test AI's role in society.",
             "long_description": "Bad Idea AI is a bold experiment that combines AI, Blockchain, and DAOs in a decentralized ecosystem. It aims to test whether AI can collaborate with humans for societal advancement or lead to a dystopian future. The project emphasizes decentralized nature and community involvement, making it a collective effort to ensure AI's benefits to humanity.",
             "target_audience": "Tech enthusiasts, blockchain and AI communities, and those interested in experimental crypto projects.",
+            "CoinMarketCap": "https://coinmarketcap.com/currencies/bad-idea-ai",
+            "CoinGecko": "https://www.coingecko.com/en/coins/bad-idea-ai",
             "kyc": false,
             "audit": "https://skynet.certik.com/projects/bad-idea",
             "website": "https://badidea.ai",
