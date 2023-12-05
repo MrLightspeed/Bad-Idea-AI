@@ -1,9 +1,10 @@
 [
     {
-        "id": "The_Shib_Paper",
+        "id": "The Shib Paper",
         "date": "2023-10-29T00:00:00Z",
         "timestamp": "2023-11-22T00:00:00Z",
         "category": "Blockchain Framework",
+        "project_name": "The Shib Paper",
         "document_name": "The Shib Paper",
         "key_features": [
             "Right to Access: Ensuring every Shibizen has access to Shibarium blockchain",
@@ -38,7 +39,7 @@
         "timestamp": "2023-10-29T00:00:00Z",
         "category": "Shibarium-Deployed",
         "project_name": "Shibacals",
-        "token_name": null,
+        "token_name": "Shibacals",
         "token_symbol": null,
         "contract_address": "N/A",
         "explorer": "N/A",
