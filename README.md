@@ -1,4 +1,4 @@
-# [Bad Idea AI](https://badidea.ai)
+# [Bad Idea AI Website](https://badidea.ai)
 
 ## Table of Contents
 1. [Introduction](#introduction)
