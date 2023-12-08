@@ -13,6 +13,7 @@
 - [Version 2.0](#version-20)
 - [Version 2.1](#version-21)
 - [Version 3.0](#version-30)
+- [Version 3.5](#version-35)
 ---
 
 ## [Version 1.1](#version-11)
@@ -181,3 +182,22 @@ The launch of Version 3.0 of the Bad Idea AI Chatbot for Telegram marks a signif
 
 ### Conclusion
 Version 3.0 of the Bad Idea AI Chatbot represents a significant stride towards a future where technology not only enhances user experience but also safeguards user privacy and ethical values. This update reflects our commitment to delivering a state-of-the-art, secure, and ethically responsible AI chatbot. We are eager for you to experience these new features and value your feedback as we continue to evolve.
+
+---
+
+## [Version 3.5](#version-35)
+
+### Added
+#### Asynchronous Operations and API Enhancements: Leveraging the newest asynchronous capabilities available for OpenAI integration, leading to faster and more responsive operations.
+#### Advanced Natural Language Processing: Integration of sophisticated NLP features, allowing for deeper understanding and analysis of language and sentiments.
+#### Integration of fuzzy logic to better refine how the Bad Idea AI chatbots decide what messages are interesting for response.
+
+### Changed
+#### Codebase Revamp: We've undertaken a major overhaul of our codebase, aligning it with the latest Python best practices for cleaner, more efficient code.
+#### Telegram Bot Upgrades: Updated the code to leverage the newest updates to Python Telegram Bot (PTB) version 20.7 released last month.
+#### Knowledge: The bot system is now able to pick out more relevant information from the knowledge base for projects that have requested inclusion into the model.
+#### Refactoring: Prepared the code for easier implementation of planned upgrades and porting to Discord Bot System.
+
+### Fixed
+#### Rate Limiting: Fixed Python Telegram Bot and OpenAI rate limiting logic to prevent a crash.
+#### Graceful Shutdown: Introduced graceful shutdown logic to prevent database corruption on system restarts.
