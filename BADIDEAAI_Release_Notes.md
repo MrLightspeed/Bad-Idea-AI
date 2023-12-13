@@ -197,7 +197,6 @@ Version 3.0 of the Bad Idea AI Chatbot represents a significant stride towards a
 #### Telegram Bot Upgrades: Updated the code to leverage the newest updates to Python Telegram Bot (PTB) version 20.7 released last month.
 #### Knowledge: The bot system is now able to pick out more relevant information from the knowledge base for projects that have requested inclusion into the model.
 #### Refactoring: Prepared the code for easier implementation of planned upgrades and porting to Discord Bot System.
-
 ### Fixed
 #### Rate Limiting: Fixed Python Telegram Bot and OpenAI rate limiting logic to prevent a crash.
 #### Graceful Shutdown: Introduced graceful shutdown logic to prevent database corruption on system restarts.
