@@ -48,7 +48,6 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 
 ## Socials
 - [Twitter](https://twitter.com/badideaai)
-- [Discord](https://discord.gg/badideaai)
 - [Facebook](https://www.facebook.com/groups/badideaai/)
 - [CoinMarketCap](https://coinmarketcap.com/community/profile/BAD_IDEA_AI/)
 
