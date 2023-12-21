@@ -14,6 +14,7 @@
 - [Version 2.1](#version-21)
 - [Version 3.0](#version-30)
 - [Version 3.5](#version-35)
+- [Version 4.0](#version-40)
 ---
 
 ## [Version 1.1](#version-11)
@@ -188,15 +189,33 @@ Version 3.0 of the Bad Idea AI Chatbot represents a significant stride towards a
 ## [Version 3.5](#version-35)
 
 ### Added
-#### Asynchronous Operations and API Enhancements: Leveraging the newest asynchronous capabilities available for OpenAI integration, leading to faster and more responsive operations.
-#### Advanced Natural Language Processing: Integration of sophisticated NLP features, allowing for deeper understanding and analysis of language and sentiments.
-#### Integration of fuzzy logic to better refine how the Bad Idea AI chatbots decide what messages are interesting for response.
+- Asynchronous Operations and API Enhancements: Leveraging the newest asynchronous capabilities available for OpenAI integration, leading to faster and more responsive operations.
+- Advanced Natural Language Processing: Integration of sophisticated NLP features, allowing for deeper understanding and analysis of language and sentiments.
+- Integration of fuzzy logic to better refine how the Bad Idea AI chatbots decide what messages are interesting for response.
 
 ### Changed
-#### Codebase Revamp: We've undertaken a major overhaul of our codebase, aligning it with the latest Python best practices for cleaner, more efficient code.
-#### Telegram Bot Upgrades: Updated the code to leverage the newest updates to Python Telegram Bot (PTB) version 20.7 released last month.
-#### Knowledge: The bot system is now able to pick out more relevant information from the knowledge base for projects that have requested inclusion into the model.
-#### Refactoring: Prepared the code for easier implementation of planned upgrades and porting to Discord Bot System.
+- Codebase Revamp: We've undertaken a major overhaul of our codebase, aligning it with the latest Python best practices for cleaner, more efficient code.
+- Telegram Bot Upgrades: Updated the code to leverage the newest updates to Python Telegram Bot (PTB) version 20.7 released last month.
+- Knowledge: The bot system is now able to pick out more relevant information from the knowledge base for projects that have requested inclusion into the model.
+- Refactoring: Prepared the code for easier implementation of planned upgrades and porting to Discord Bot System.
+- 
 ### Fixed
-#### Rate Limiting: Fixed Python Telegram Bot and OpenAI rate limiting logic to prevent a crash.
-#### Graceful Shutdown: Introduced graceful shutdown logic to prevent database corruption on system restarts.
+- Rate Limiting: Fixed Python Telegram Bot and OpenAI rate limiting logic to prevent a crash.
+- Graceful Shutdown: Introduced graceful shutdown logic to prevent database corruption on system restarts.
+
+---
+
+## [Version 4.0](#version-40)
+
+### Added
+- Introduced personalization for group admins in group chats and users in direct messages with the Bad Idea AI bot. Begin by typing /start!
+- Group admins and users can now set the default language for their groups or DMs. For example, if someone types in English, the bot can respond in Thai.
+  - Choose from various modes: STANDARD, PIRATE, STEVE JOBS, ELON MUSK, CRYPTO BRO, and BAD IDEA AI.
+- Significantly upgraded multi-lingual neural language processing to enhance context understanding in numerous languages.
+- Implemented improved sentiment analysis tools to refine the bot's language processing and sentiment analysis capabilities.
+
+### Changed
+- Implemented upgrades in line with the recent Python Telegram Bot version 20.7 API release. This version offers deeper integration with the Telegram API, enhancing the bot's interactivity and personalization features.
+  
+### Conclusion
+Version 4.0 of the Bad Idea AI Chatbot marks a significant leap forward in personalization. Future updates will include further localization of the menu system to accommodate various languages and cultures. We extend our gratitude to the Bad Idea AI community members for their invaluable testing and support!
