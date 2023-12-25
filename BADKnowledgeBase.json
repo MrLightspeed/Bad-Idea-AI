@@ -6,7 +6,7 @@
         "category": "Blockchain Framework",
         "project_name": "The Shib Paper",
         "document_name": "The Shib Paper",
-        "key_features": [
+        "long_description": [
             "Right to Access: Ensuring every Shibizen has access to Shibarium blockchain",
             "Blockchain Integrity: Adherence to high standards of integrity and accuracy",
             "Proof-of-Stake: Utilizing a consensus mechanism involving Delegators and Validators",
