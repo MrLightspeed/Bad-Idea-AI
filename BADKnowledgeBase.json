@@ -384,5 +384,30 @@
         "youtube": null,
         "facebook": "https://www.facebook.com/BadIdeaAI",
         "instagram": null
+    },
+    {
+        "id": "Shiboshis",
+        "date": "2021-10-14T00:00:00Z",
+        "timestamp": "2023-12-25T00:00:00Z",
+        "category": "NFT Collection",
+        "project_name": "Shiboshis",
+        "token_name": "Shiboshi",
+        "token_symbol": null,
+        "contract_address": "Not specified",
+        "explorer": "Not specified",
+        "short_description": "Shiboshis are a collection of 10,000 unique, lovable Shiba Inu NFTs on the Ethereum blockchain, with varied traits and utilities in the Shiboshi Game.",
+        "long_description": "The Shiboshis are an exclusive collection of 10,000 Non-Fungible Tokens (NFTs), released on October 14, 2021. Each Shiboshi represents a unique, randomly-generated pixel art Shiba avatar with varying traits that make each unique and collectible. These traits include visual elements for eyes, mouth, headwear, clothes, fur color, accessories, background, and each trait enhances the base ShibaStrength in the upcoming Shiboshi Game. Owners of Shiboshis also gain access to the SHIBOSHI Social Club, unique naming rights, and special privileges in SHIB: The Metaverse.",
+        "target_audience": "NFT collectors, Shiba Inu enthusiasts, blockchain gamers",
+        "kyc": false,
+        "audit": false,
+        "website": "https://shiboshis.shibaswap.com",
+        "whitepaper": null,
+        "twitter": null,
+        "telegram": null,
+        "discord": null,
+        "medium": null,
+        "youtube": null,
+        "facebook": null,
+        "instagram": null
     }
 ]
