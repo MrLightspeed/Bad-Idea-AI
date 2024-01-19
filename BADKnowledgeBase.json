@@ -14,6 +14,26 @@
         "website": "https://www.shibarium.com"
     },
     {
+        "id": "ShibaInu",
+        "token_name": "Shiba Inu",
+        "token_symbol": "$SHIB",
+        "short_description": "Shiba Inu, or SHIB, is the main token of the Shib Ecosystem, offering a decentralized, community-led currency.",
+        "long_description": "Shiba Inu (SHIB) is a decentralized cryptocurrency that emerged as a part of the Shib Ecosystem. Launched in late 2020, this Ethereum-based token quickly gained popularity worldwide. It's known for its community-driven approach and is now accepted as a payment method in various locations, either directly or through third-party intermediaries. SHIB is a part of a broader ecosystem that includes other tokens and services such as Leash, Bone, Shiboshis, and Welly Friends, emphasizing its role in decentralized finance.",
+        "target_audience": "Crypto investors and Shib community members interested in decentralized finance.",
+        "website": "https://shibatoken.com/",
+        "whitepaper": null,
+        "explorer": null,
+        "audit_status": null,
+        "kyc_status": null,
+        "twitter": null,
+        "telegram": null,
+        "discord": null,
+        "medium": null,
+        "youtube": null,
+        "facebook": null,
+        "instagram": null
+    },
+    {
         "id": "K9Finance",
         "date": "2023-01-02T00:00:00Z",
         "timestamp": "2023-01-02T00:00:00Z",
