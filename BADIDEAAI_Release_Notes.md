@@ -15,6 +15,7 @@
 - [Version 3.0](#version-30)
 - [Version 3.5](#version-35)
 - [Version 4.0](#version-40)
+- [Version 4.1](#version-41)
 ---
 
 ## [Version 1.1](#version-11)
@@ -219,3 +220,23 @@ Version 3.0 of the Bad Idea AI Chatbot represents a significant stride towards a
   
 ### Conclusion
 Version 4.0 of the Bad Idea AI Chatbot marks a significant leap forward in personalization. Future updates will include further localization of the menu system to accommodate various languages and cultures. We extend our gratitude to the Bad Idea AI community members for their invaluable testing and support!
+
+---
+
+## [Version 4.1](#version-41)
+
+### Added
+- Shib Mode: Shib mode was introduced after a test in the Shibarium Tech Telegram group. This mode embraces more of the Shib vibe and feel suitable for Shib Ecosystem groups.
+- Asynchronous File Handling: Implemented asynchronous file operations, enhancing the bot's performance during file reads and writes.
+- Caching Mechanism: Added caching for frequently accessed data, reducing load times and improving response efficiency.
+
+### Changed
+- Cache Management: Optimized cache handling to ensure up-to-date information is always used, particularly for knowledge data updates.
+
+### Fixed
+- Minor bug fixes and performance improvements.
+
+### Conclusion
+Version 4.1 is a minor maintenance release to ensure the chatbot system scales with the raising adoption levels. Many thanks to the testers for this update. To Do: Port upgrades to the discord system.
+
+---
