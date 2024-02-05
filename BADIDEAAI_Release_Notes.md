@@ -16,6 +16,8 @@
 - [Version 3.5](#version-35)
 - [Version 4.0](#version-40)
 - [Version 4.1](#version-41)
+- [Version 4.2](#version-42)
+- [Version 4.3](#version-43)
 ---
 
 ## [Version 1.1](#version-11)
@@ -240,3 +242,23 @@ Version 4.0 of the Bad Idea AI Chatbot marks a significant leap forward in perso
 Version 4.1 is a minor maintenance release to ensure the chatbot system scales with the raising adoption levels. Many thanks to the testers for this update. To Do: Port upgrades to the discord system.
 
 ---
+
+## [Version 4.2](#version-42)
+
+### Added
+ - Custom Modes: Bad Idea AI can be configured to adopt a persona that fits with the supported community. Group admins interested in trying out the new feature are welcome to contact Mr. Lightspeed for assistance.
+
+### Fixed
+ - Minor performance improvements to assist with the greater demand.
+
+---
+
+## [Version 4.3](#version-43)
+
+### Changed
+- Because of higher demand, we upgraded the Twitter API client to use asynchronous API calls to improve performance.
+- Refactored several sections of the code in order to process simultaneous tweets and obey late limits.
+- Retweets are being filtered in order to avoid spamming out telegram groups.
+
+### Conclusion
+- Based on our testing, version 4.3 has doubled the speed from the previous version in processing tweets with the AI. 
