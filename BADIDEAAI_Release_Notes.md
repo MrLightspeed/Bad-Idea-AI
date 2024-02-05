@@ -258,7 +258,7 @@ Version 4.1 is a minor maintenance release to ensure the chatbot system scales w
 ### Changed
 - Because of higher demand, we upgraded the Twitter API client to use asynchronous API calls to improve performance.
 - Refactored several sections of the code in order to process simultaneous tweets and obey late limits.
-- Retweets are being filtered in order to avoid spamming out telegram groups.
+- Retweets are being filtered in order to avoid spamming telegram groups.
 
 ### Conclusion
 - Based on our testing, version 4.3 has doubled the speed from the previous version in processing tweets with the AI. 
