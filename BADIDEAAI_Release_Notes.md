@@ -18,6 +18,7 @@
 - [Version 4.1](#version-41)
 - [Version 4.2](#version-42)
 - [Version 4.3](#version-43)
+- [Version 4.4](#version-44)
 ---
 
 ## [Version 1.1](#version-11)
@@ -246,10 +247,10 @@ Version 4.1 is a minor maintenance release to ensure the chatbot system scales w
 ## [Version 4.2](#version-42)
 
 ### Added
- - Custom Modes: Bad Idea AI can be configured to adopt a persona that fits with the supported community. Group admins interested in trying out the new feature are welcome to contact Mr. Lightspeed for assistance.
+- Custom Modes: Bad Idea AI can be configured to adopt a persona that fits with the supported community. Group admins interested in trying out the new feature are welcome to contact Mr. Lightspeed for assistance.
 
 ### Fixed
- - Minor performance improvements to assist with the greater demand.
+- Minor performance improvements to assist with the greater demand.
 
 ---
 
@@ -261,4 +262,19 @@ Version 4.1 is a minor maintenance release to ensure the chatbot system scales w
 - Retweets are being filtered in order to avoid spamming telegram groups.
 
 ### Conclusion
-- Based on our testing, version 4.3 has doubled the speed from the previous version in processing tweets with the AI. 
+- Based on our testing, version 4.3 has doubled the speed from the previous version in processing tweets with the AI.
+
+---
+
+## [Version 4.4](#version-44)
+
+### Added
+- Multi-lingual Twitter Announcements: Both Bad Idea AI and the Shib AI versions now announce tweets in the selected languages of their groups. Speech output is also available in the group's configured language, enhancing accessibility and user experience.
+- Typing Indicator: Users will now see a typing indicator, providing a visual cue that the AI is processing their request, enhancing the interactive experience.
+- Custom Mode: Introducing "SIGNIFICANT_OTHER Mode" for users seeking emotional support and companionship. This feature, inspired by the AI interactions with users from K9 Finance DAO who conversed extensively with S.A.R.A.H. unaware she is an AI, aims to add a touch of humor and warmth to our AI interactions. This is reminiscent of the connection explored in the movie "Her," where a deep bond forms between a human and an AI. All in good fun Team K9!
+
+### Updated
+- Knowledge Matching Algorithms: We have refined our knowledge matching algorithms to ensure more accurate and relevant responses, significantly reducing the chances of mismatches. This update is based on valuable community feedback and aims to enhance the overall user experience across supported projects.
+
+### Conclusion
+- We extend our heartfelt thanks to our community for their recommendations and feedback. Your contributions are instrumental in our continuous improvement.
