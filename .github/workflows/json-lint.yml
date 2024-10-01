@@ -12,7 +12,7 @@ jobs:
   lint-and-format:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    name: Lint, Format, and Fix Dependencies for JSON Files
+    name: Lint and Format JSON Files
 
     steps:
       # 1. Checkout Repository with Full History
@@ -31,20 +31,15 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      # 4. Fix Vulnerabilities
-      - name: Fix Vulnerabilities
-        run: npm audit fix --force
-        continue-on-error: true  # Continue even if some fixes fail
-
-      # 5. Format JSON Files with Prettier
+      # 4. Format JSON Files with Prettier
       - name: Format JSON Files with Prettier
         run: npm run format
 
-      # 6. Validate JSON Syntax with JSONLint
+      # 5. Validate JSON Syntax with JSONLint using npx
       - name: Validate JSON Syntax with JSONLint
         run: npm run lint
 
-      # 7. Check for Changes After Formatting
+      # 6. Check for Changes After Formatting
       - name: Check for changes
         id: git-check
         run: |
@@ -54,7 +49,7 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
-      # 8. Commit Formatted JSON Files if Changes Exist
+      # 7. Commit Formatted JSON Files if Changes Exist
       - name: Commit formatted JSON files
         if: steps.git-check.outputs.changed == 'true'
         run: |
@@ -63,7 +58,7 @@ jobs:
           git add '**/*.json'
           git commit -m "chore: format JSON files with Prettier"
 
-      # 9. Push Changes Back to the Repository
+      # 8. Push Changes Back to the Repository
       - name: Push changes
         if: steps.git-check.outputs.changed == 'true'
         uses: ad-m/github-push-action@v0.6.0
