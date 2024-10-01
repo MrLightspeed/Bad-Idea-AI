@@ -8,6 +8,11 @@ on:
     paths:
       - '**/*.json'
 
+permissions:
+  contents: write
+  metadata: read
+  packages: read
+
 jobs:
   lint-and-format:
     if: github.actor != 'github-actions[bot]'
