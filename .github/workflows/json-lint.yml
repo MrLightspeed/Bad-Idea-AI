@@ -9,9 +9,8 @@ on:
       - '**/*.json'
 
 permissions:
-  contents: write
-  metadata: read
-  packages: read
+  contents: write      # Grants write access to repository contents
+  packages: read       # Grants read access to packages (optional, based on your needs)
 
 jobs:
   lint-and-format:
