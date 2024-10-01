@@ -8,9 +8,18 @@
     "format": "prettier --write '**/*.json'"
   },
   "devDependencies": {
+    "husky": "^9.1.6",
     "prettier": "^2.8.0"
   },
   "author": "",
   "license": "ISC",
-  "gitignore": "node_modules/"
+  "gitignore": "node_modules/",
+  "dependencies": {
+    "core-js": "^3.38.1",
+    "glob": "^11.0.0",
+    "inflight": "^1.0.6",
+    "minimatch": "^10.0.1",
+    "mkdirp": "^3.0.1",
+    "nomnom": "^1.5.3"
+  }
 }
