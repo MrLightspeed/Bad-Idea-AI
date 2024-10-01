@@ -12,7 +12,7 @@ jobs:
   lint-and-format:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
-    name: Lint and Format JSON Files
+    name: Lint, Format, and Fix Dependencies for JSON Files
 
     steps:
       # 1. Checkout Repository with Full History
@@ -25,21 +25,26 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'  # Use Node.js version 16
+          node-version: '16'  # Specify the Node.js version
 
-      # 3. Install Prettier Globally
-      - name: Install Prettier
-        run: npm install -g prettier
+      # 3. Install Dependencies
+      - name: Install Dependencies
+        run: npm install
 
-      # 4. Format JSON Files with Prettier
+      # 4. Fix Vulnerabilities
+      - name: Fix Vulnerabilities
+        run: npm audit fix --force
+        continue-on-error: true  # Continue even if some fixes fail
+
+      # 5. Format JSON Files with Prettier
       - name: Format JSON Files with Prettier
-        run: prettier --write "**/*.json"
+        run: npm run format
 
-      # 5. Validate JSON Syntax with JSONLint using npx
+      # 6. Validate JSON Syntax with JSONLint
       - name: Validate JSON Syntax with JSONLint
-        run: npx jsonlint-cli "**/*.json"
+        run: npm run lint
 
-      # 6. Check for Changes After Formatting
+      # 7. Check for Changes After Formatting
       - name: Check for changes
         id: git-check
         run: |
@@ -49,16 +54,16 @@ jobs:
             echo "changed=false" >> $GITHUB_OUTPUT
           fi
 
-      # 7. Commit Formatted JSON Files if Changes Exist
+      # 8. Commit Formatted JSON Files if Changes Exist
       - name: Commit formatted JSON files
         if: steps.git-check.outputs.changed == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add "**/*.json"
+          git add '**/*.json'
           git commit -m "chore: format JSON files with Prettier"
 
-      # 8. Push Changes Back to the Repository
+      # 9. Push Changes Back to the Repository
       - name: Push changes
         if: steps.git-check.outputs.changed == 'true'
         uses: ad-m/github-push-action@v0.6.0
