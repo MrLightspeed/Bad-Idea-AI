@@ -22,7 +22,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Fetch all history to allow pushing commits
+          fetch-depth: 0
+          sparse-checkout-cone-mode: false
 
       # 2. Set Up Node.js Environment
       - name: Set up Node.js
