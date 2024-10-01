@@ -27,18 +27,17 @@ jobs:
         with:
           node-version: '16'  # Use Node.js version 16
 
-      # 3. Install Prettier and JSONLint Globally
-      - name: Install Prettier and JSONLint
-        run: |
-          npm install -g prettier jsonlint-cli
+      # 3. Install Prettier Globally
+      - name: Install Prettier
+        run: npm install -g prettier
 
       # 4. Format JSON Files with Prettier
       - name: Format JSON Files with Prettier
         run: prettier --write "**/*.json"
 
-      # 5. Validate JSON Syntax with JSONLint
+      # 5. Validate JSON Syntax with JSONLint using npx
       - name: Validate JSON Syntax with JSONLint
-        run: jsonlint "**/*.json"
+        run: npx jsonlint-cli "**/*.json"
 
       # 6. Check for Changes After Formatting
       - name: Check for changes
