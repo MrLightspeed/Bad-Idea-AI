@@ -4,11 +4,10 @@
   "description": "Repository for Bad Idea AI",
   "main": "index.js",
   "scripts": {
-    "lint": "jsonlint-cli '**/*.json'",
+    "lint": "npx jsonlint-cli '**/*.json'",
     "format": "prettier --write '**/*.json'"
   },
   "devDependencies": {
-    "jsonlint-cli": "^1.0.0",
     "prettier": "^2.8.0"
   },
   "author": "",
