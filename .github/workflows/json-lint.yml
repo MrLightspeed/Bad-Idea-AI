@@ -1,0 +1,33 @@
+name: JSON Lint and Format
+
+on:
+  push:
+    paths:
+      - '**/*.json'
+  pull_request:
+    paths:
+      - '**/*.json'
+
+jobs:
+  lint-and-format:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install Prettier and JSONLint
+        run: |
+          npm install -g prettier
+          npm install -g jsonlint-cli
+
+      - name: Format JSON Files with Prettier
+        run: prettier --write "**/*.json"
+
+      - name: Validate JSON Syntax with JSONLint
+        run: jsonlint "**/*.json"
