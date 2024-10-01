@@ -11,6 +11,7 @@ on:
 jobs:
   lint-and-format:
     runs-on: ubuntu-latest
+    name: Lint and Format JSON Files
 
     steps:
       - name: Checkout Repository
@@ -19,9 +20,17 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'  # Ensure compatibility with Prettier and JSONLint
+          node-version: '16'
 
-      - name: Install Prettier and JSONLint
+      - name: Cache Node.js modules
+        uses: actions/cache@v3
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install Dependencies
         run: |
           npm install -g prettier jsonlint-cli
 
@@ -30,3 +39,13 @@ jobs:
 
       - name: Validate JSON Syntax with JSONLint
         run: jsonlint "**/*.json"
+
+      # Optional: Commit formatted JSON files
+      - name: Commit formatted JSON files
+        if: steps.format.outputs.changed == 'true'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add "**/*.json"
+          git commit -m "chore: format JSON files with Prettier" || echo "No changes to commit"
+          git push
