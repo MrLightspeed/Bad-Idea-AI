@@ -10,42 +10,59 @@ on:
 
 jobs:
   lint-and-format:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     name: Lint and Format JSON Files
 
     steps:
+      # 1. Checkout Repository with Full History
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history to allow pushing commits
 
+      # 2. Set Up Node.js Environment
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '16'  # Use Node.js version 16
 
-      - name: Cache Node.js modules
-        uses: actions/cache@v3
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-node-
-
-      - name: Install Dependencies
+      # 3. Install Prettier and JSONLint Globally
+      - name: Install Prettier and JSONLint
         run: |
           npm install -g prettier jsonlint-cli
 
+      # 4. Format JSON Files with Prettier
       - name: Format JSON Files with Prettier
         run: prettier --write "**/*.json"
 
+      # 5. Validate JSON Syntax with JSONLint
       - name: Validate JSON Syntax with JSONLint
         run: jsonlint "**/*.json"
 
-      # Optional: Commit formatted JSON files
-      - name: Commit formatted JSON files
-        if: steps.format.outputs.changed == 'true'
+      # 6. Check for Changes After Formatting
+      - name: Check for changes
+        id: git-check
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      # 7. Commit Formatted JSON Files if Changes Exist
+      - name: Commit formatted JSON files
+        if: steps.git-check.outputs.changed == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "**/*.json"
-          git commit -m "chore: format JSON files with Prettier" || echo "No changes to commit"
-          git push
+          git commit -m "chore: format JSON files with Prettier"
+
+      # 8. Push Changes Back to the Repository
+      - name: Push changes
+        if: steps.git-check.outputs.changed == 'true'
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
