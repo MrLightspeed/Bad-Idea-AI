@@ -612,4 +612,27 @@
         "facebook": null,
         "instagram": null
     }
+    {
+        "id": "RaidSharksBot",
+        "date": "2024-10-01T00:00:00Z",
+        "category": "Telegram Bots",
+        "token_name": "RaidSharks",
+        "token_symbol": "$SHARX",
+        "contract_address": "0x64d3c2817a22b78cacabe4baa2525065ebdf4012",
+        "explorer": "https://etherscan.io/token/0x64d3c2817a22b78cacabe4baa2525065ebdf4012",
+        "short_description": "RaidSharksBot is a powerful Telegram bot that enhances community engagement on X (formerly Twitter) by organizing and gamifying coordinated raids, featuring advanced analytics and targeting. It's widely used in crypto and Web3 communities, alongside a utility token, $SHARX.",
+        "long_description": "RaidSharksBot is an advanced Telegram tool designed for orchestrating community-driven engagement on X (Twitter). The bot facilitates strategic raids to amplify project visibility, with real-time stats, leaderboards, preset hashtags, and analytics to track and gamify participation. This makes it an ideal solution for Web3 and crypto projects looking to increase social media reach. RaidSharksBot also offers customizable white-label solutions for branding, targeted advertising features, and revenue sharing with holders of the $SHARX utility token. Its ecosystem allows for seamless integration with a revenue-sharing model, distributing 50% of bot-generated revenue to $SHARX holders.",
+        "target_audience": "Crypto and Web3 communities, marketers, and project managers seeking to boost social media engagement.",
+        "kyc": false,
+        "audit": false,
+        "website": "https://raidsharksbot.com",
+        "whitepaper": "https://raidsharksbot.com/sharx.html",
+        "twitter": "https://x.com/RaidSharks",
+        "telegram": "https://t.me/RaidSharksEntry",
+        "discord": "https://discord.gg/YtXzHZEcFh",
+        "medium": "https://medium.com/@raidsharksbot",
+        "youtube": null,
+        "facebook": null,
+        "instagram": null
+    }
 ]
