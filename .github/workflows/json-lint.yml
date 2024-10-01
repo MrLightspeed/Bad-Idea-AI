@@ -9,7 +9,7 @@ on:
       - '**/*.json'
 
 permissions:
-  contents: write
+  contents: write 
 
 jobs:
   lint-and-format:
