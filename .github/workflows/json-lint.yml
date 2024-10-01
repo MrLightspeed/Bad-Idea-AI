@@ -19,12 +19,11 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '16'  # Ensure compatibility with Prettier and JSONLint
 
       - name: Install Prettier and JSONLint
         run: |
-          npm install -g prettier
-          npm install -g jsonlint-cli
+          npm install -g prettier jsonlint-cli
 
       - name: Format JSON Files with Prettier
         run: prettier --write "**/*.json"
