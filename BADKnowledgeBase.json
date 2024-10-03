@@ -634,5 +634,29 @@
     "youtube": null,
     "facebook": null,
     "instagram": null
+  },
+  {
+    "id": "SpectreCoin",
+    "date": "2024-10-03T00:00:00Z",
+    "category": "Cryptocurrency",
+    "token_name": "Spectre",
+    "token_symbol": "$SPCTR",
+    "contract_address": "0xB29E475B69F843046A757747943C00DCe8a3d982",
+    "explorer": "https://etherscan.io/token/0xB29E475B69F843046A757747943C00DCe8a3d982",
+    "short_description": "Spectre is a cryptocurrency symbolizing hidden political influence, thriving in chaotic, political environments with a focus on global discourse and meme-driven movements.",
+    "long_description": "Spectre ($SPCTR) is a meme-based cryptocurrency centered around invisible political influence, offering users the opportunity to engage in global political discourse and capitalize on the uncertainties of global events. The project emphasizes its cross-border, decentralized nature, leveraging the unpredictability of politics to empower users. Spectre offers secure, anonymous transactions via its blockchain technology and a 0% buy tax, with a 2% sell tax. The contract is renounced, and liquidity is burned, ensuring security for investors. The contract is deployed on the Ethereum blockchain. The project is audited by Cyberscope with no critical or major findings.",
+    "target_audience": "Political enthusiasts, cryptocurrency investors, and meme-coin communities.",
+    "kyc": false,
+    "audit": true,
+    "website": "https://spectre.quest",
+    "whitepaper": null,
+    "twitter": "https://x.com/spectrecoin",
+    "telegram": "https://t.me/SpectreCoin",
+    "discord": null,
+    "medium": null,
+    "youtube": "https://www.youtube.com/channel/UCABCxyz",
+    "facebook": null,
+    "instagram": "https://www.instagram.com/spectrecoin",
+    "reddit": "https://www.reddit.com/r/SpectreCoin/"
   }
 ]
