@@ -4,14 +4,12 @@
   "description": "Bad Idea AI",
   "main": "index.js",
   "type": "module",
-
   "scripts": {
     "lint:json": "jsonlint '**/*.json'",
     "lint:js": "eslint '**/*.js'",
-    "format": "prettier --write '**/*.{js,json,md,yml}'",
+    "format": "prettier --write .",
     "prepare": "husky"
   },
-
   "dependencies": {
     "core-js": "^3.42.0",
     "glob": "^11.0.2",
@@ -20,18 +18,15 @@
     "mkdirp": "^3.0.1",
     "yargs": "^18.0.0"
   },
-
   "devDependencies": {
     "@prantlf/jsonlint": "^16.0.0",
     "eslint": "^9.27.0",
     "husky": "^9.1.7",
     "prettier": "^3.5.3"
   },
-
   "engines": {
     "node": ">=18"
   },
-
   "license": "ISC",
   "author": ""
 }

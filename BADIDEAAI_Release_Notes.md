@@ -271,7 +271,7 @@ Version 4.1 is a minor maintenance release to ensure the chatbot system scales w
 ### Added
 - Multi-lingual Twitter Announcements: Both Bad Idea AI and the Shib AI versions now announce tweets in the selected languages of their groups. Speech output is also available in the group's configured language, enhancing accessibility and user experience.
 - Typing Indicator: Users will now see a typing indicator, providing a visual cue that the AI is processing their request, enhancing the interactive experience.
-- Custom Mode: Introducing "SIGNIFICANT_OTHER Mode" for users seeking emotional support and companionship. This feature, inspired by the AI interactions with users from K9 Finance DAO who conversed extensively with S.A.R.A.H. unaware she is an AI, aims to add a touch of humor and warmth to our AI interactions. This is reminiscent of the connection explored in the movie "Her," where a deep bond forms between a human and an AI. All in good fun Team K9!
+- Custom Mode: Introducing "SIGNIFICANT_OTHER Mode" for users seeking emotional support and companionship. This feature, inspired by the AI interactions with users from K9 Finance Decentralization who conversed extensively with S.A.R.A.H. unaware she is an AI, aims to add a touch of humor and warmth to our AI interactions. This is reminiscent of the connection explored in the movie "Her," where a deep bond forms between a human and an AI. All in good fun Team K9!
 
 ### Updated
 - Knowledge Matching Algorithms: We have refined our knowledge matching algorithms to ensure more accurate and relevant responses, significantly reducing the chances of mismatches. This update is based on valuable community feedback and aims to enhance the overall user experience across supported projects.

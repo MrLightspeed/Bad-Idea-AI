@@ -1,0 +1,20 @@
+title: Bad Idea AI
+description: "Combining Blockchain, AI and Decentralization"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: light
+has_dark_mode_toggle: true
+favicon: https://badidea.ai/favicon.png
+logo: https://badidea.ai/social.png
+image: https://badidea.ai/social.png
+url: https://mrlightspeed.github.io/Bad-Idea-AI
+nav_external_links:
+  - title: Website
+    url: https://badidea.ai
+  - title: News
+    url: https://badideas.ai
+  - title: Community Chat
+    url: https://t.me/badideaai
+  - title: Announcements
+    url: https://t.me/Bad_Idea_AI
+plugins:
+  - jekyll-seo-tag
