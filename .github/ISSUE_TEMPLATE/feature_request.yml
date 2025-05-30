@@ -1,0 +1,20 @@
+name: Feature Request
+description: Suggest an idea
+labels: enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have a suggestion? Let us know!
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the feature
+    validations:
+      required: true
+  - type: textarea
+    id: motivation
+    attributes:
+      label: Motivation and context
+    validations:
+      required: false

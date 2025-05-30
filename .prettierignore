@@ -1,1 +1,6 @@
 node_modules/
+
+BADIDEAAI_Release_Notes.md
+LISTINGS.md
+.github/workflows/json-lint.yml
+.github/dependabot.yml
