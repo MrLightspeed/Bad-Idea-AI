@@ -20,7 +20,7 @@ jobs:
     steps:
       # 1. Checkout Repository with Full History
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
           sparse-checkout-cone-mode: false
