@@ -15,7 +15,7 @@
   "license": "ISC",
   "gitignore": "node_modules/",
   "dependencies": {
-    "core-js": "^3.38.1",
+    "core-js": "^3.42.0",
     "glob": "^11.0.0",
     "inflight": "^1.0.6",
     "minimatch": "^10.0.1",
