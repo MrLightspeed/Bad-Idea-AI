@@ -6,5 +6,9 @@ nav_order: 1
 
 # Welcome to Bad Idea AI
 
-This project merges blockchain, artificial intelligence and Decentralization.
-See the [README](README.md) for details.
+Bad Idea AI explores how blockchain and artificial intelligence can work
+together in a decentralized ecosystem.
+
+- Read the [README](README.md) for an overview of the project.
+- Review the [release notes](BADIDEAAI_Release_Notes.md) to see what's new.
+- Check the [listings](LISTINGS.md) page for exchanges and other resources.
