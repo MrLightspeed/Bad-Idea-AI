@@ -9,7 +9,7 @@
     "lint:json": "jsonlint '**/*.json'",
     "lint:js": "eslint '**/*.js'",
     "format": "prettier --write '**/*.{js,json,md,yml}'",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
 
   "dependencies": {
