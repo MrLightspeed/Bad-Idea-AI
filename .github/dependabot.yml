@@ -1,6 +1,56 @@
+# .github/dependabot.yml
+# Dependabot v2 configuration for Bad-Idea-AI
+
 version: 2
+
 updates:
+  # JavaScript / Node (UI tooling, linting, site assets)
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
       interval: "weekly"
+      day: "sunday"
+      time: "07:00"
+    open-pull-requests-limit: 5
+    assignees:
+      - "MrLightspeed"
+    labels:
+      - "dependencies"
+      - "npm"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+
+  # Ruby / Bundler (Jekyll GitHub Pages site)
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "07:00"
+    open-pull-requests-limit: 5
+    assignees:
+      - "MrLightspeed"
+    labels:
+      - "dependencies"
+      - "ruby"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
+
+  # GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "07:00"
+    open-pull-requests-limit: 10
+    assignees:
+      - "MrLightspeed"
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "chore"
+      include: "scope"
