@@ -55,19 +55,9 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 ---
 
 ## Local Setup
-Use the `setup.sh` script to prepare your environment. The script supports two
-modes:
-
-```bash
-# Online mode (default)
-./setup.sh --online
-
-# Offline mode (uses cached npm packages)
-./setup.sh --offline
-```
-
-If `OFFLINE=1` is set in the environment, the script automatically runs in
-offline mode.
+Run `./setup.sh` to verify that Node.js and npm are available. When
+`package-lock.json` is present and network access is available, the script
+attempts to install npm dependencies automatically.
 
 ---
 
