@@ -16,7 +16,7 @@
   "gitignore": "node_modules/",
   "dependencies": {
     "core-js": "^3.38.1",
-    "glob": "^11.0.0",
+    "glob": "^11.0.2",
     "inflight": "^1.0.6",
     "minimatch": "^10.0.1",
     "mkdirp": "^3.0.1",
