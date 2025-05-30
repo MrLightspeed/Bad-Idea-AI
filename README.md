@@ -7,9 +7,10 @@
 4. [Solidity Code Safety](#solidity-code-safety)
 5. [Contributors](#contributors)
 6. [Socials](#socials)
-7. [Release Notes](#release-notes)
-8. [Listings](#listings)
-9. [License](#license)
+7. [Local Setup](#local-setup)
+8. [Release Notes](#release-notes)
+9. [Listings](#listings)
+10. [License](#license)
 
 ---
 
@@ -50,6 +51,23 @@ The safety of our Solidity code is paramount. The contract is built using OpenZe
 - [Twitter](https://twitter.com/badideaai)
 - [Facebook](https://www.facebook.com/groups/badideaai/)
 - [CoinMarketCap](https://coinmarketcap.com/community/profile/BAD_IDEA_AI/)
+
+---
+
+## Local Setup
+Use the `setup.sh` script to prepare your environment. The script supports two
+modes:
+
+```bash
+# Online mode (default)
+./setup.sh --online
+
+# Offline mode (uses cached npm packages)
+./setup.sh --offline
+```
+
+If `OFFLINE=1` is set in the environment, the script automatically runs in
+offline mode.
 
 ---
 
