@@ -17,13 +17,7 @@ A meme-worthy experiment that combines blockchain, artificial intelligence and D
 - [Listings](#listings)
 - [License](#license)
 
-## Quick Start
-
-```sh
-yarn install
-./setup.sh
 ```
-
 
 ## Why Bad Idea AI?
 
