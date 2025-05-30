@@ -12,7 +12,6 @@ A meme-worthy experiment that combines blockchain, artificial intelligence and D
 - [Why Bad Idea AI?](#why-bad-idea-ai)
 - [ERC-20 Compliance](#erc-20-compliance)
 - [Solidity Code Safety](#solidity-code-safety)
-- [Contributors](#contributors)
 - [Community](#community)
 - [Release Notes](#release-notes)
 - [Listings](#listings)
@@ -21,13 +20,10 @@ A meme-worthy experiment that combines blockchain, artificial intelligence and D
 ## Quick Start
 
 ```sh
-git clone https://github.com/MrLightspeed/Bad-Idea-AI.git
-cd Bad-Idea-AI
 yarn install
 ./setup.sh
 ```
 
-Interested in contributing? See [CONTRIBUTING.md](.github/CONTRIBUTING.md).
 
 ## Why Bad Idea AI?
 
@@ -46,12 +42,7 @@ This project serves a unique purpose in the intersection of AI, blockchain and s
 
 ## Solidity Code Safety
 
-The contract uses OpenZeppelin libraries and has been audited by [Certik](https://skynet.certik.com/projects/bad-idea). It aced 73 of 73 properties with one informational note about large numbers.
-
-## Contributors
-
-- **Code Custodian**: [Mr Lightspeed](https://coinmarketcap.com/community/profile/Mr_Lightspeed/)
-- **Core Contributors**: Several anonymous developers
+The contract uses OpenZeppelin libraries and has been audited by [Certik](https://skynet.certik.com/projects/bad-idea). It aced 73 of 73 properties with one informational note about large numbers. See the full [Bad Idea AI Certik Audit](Bad%20Idea%20AI%20Certik%20Audit.pdf).
 
 ## Community
 
