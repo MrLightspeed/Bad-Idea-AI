@@ -3,6 +3,7 @@
 [![Node](https://img.shields.io/badge/node->=18-green)](https://nodejs.org)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Discussions](https://img.shields.io/badge/Chat-Discussions-blue?logo=github)](https://github.com/MrLightspeed/Bad-Idea-AI/discussions)
 
 A meme-worthy experiment that combines blockchain, artificial intelligence and Decentralization.
 
