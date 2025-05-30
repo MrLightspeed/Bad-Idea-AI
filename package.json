@@ -1,6 +1,6 @@
 {
   "name": "bad-idea-ai",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Bad Idea AI",
   "main": "index.js",
   "type": "module",
