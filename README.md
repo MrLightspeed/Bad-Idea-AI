@@ -17,8 +17,6 @@ A meme-worthy experiment that combines blockchain, artificial intelligence and D
 - [Listings](#listings)
 - [License](#license)
 
-```
-
 ## Why Bad Idea AI?
 
 This project serves a unique purpose in the intersection of AI, blockchain and social experiments. It is designed to test whether AI can work alongside humans to lead society into a new golden age or result in a dystopian future.
