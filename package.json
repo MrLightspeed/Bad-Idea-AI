@@ -1,25 +1,38 @@
 {
   "name": "bad-idea-ai",
-  "version": "1.0.0",
-  "description": "Repository for Bad Idea AI",
+  "version": "1.1.0",
+  "description": "Bad Idea AI – updated dependencies, modern toolchain",
   "main": "index.js",
+  "type": "module",
+
   "scripts": {
-    "lint": "npx jsonlint-cli '**/*.json'",
-    "format": "prettier --write '**/*.json'"
+    "lint:json": "jsonlint-cli '**/*.json'",
+    "lint:js": "eslint '**/*.js'",
+    "format": "prettier --write '**/*.{js,json,md,yml}'",
+    "prepare": "husky install"
   },
-  "devDependencies": {
-    "husky": "^9.1.6",
-    "prettier": "^2.8.0"
-  },
-  "author": "",
-  "license": "ISC",
-  "gitignore": "node_modules/",
+
   "dependencies": {
-    "core-js": "^3.38.1",
-    "glob": "^11.0.0",
-    "inflight": "^1.0.6",
-    "minimatch": "^10.0.1",
-    "mkdirp": "^3.0.1",
-    "nomnom": "^1.5.3"
-  }
+    "core-js": "^3.40.0",
+    "glob": "^11.1.0",
+    "lru-cache": "^10.2.1",
+    "minimatch": "^10.0.2",
+    "mkdirp": "^3.0.2",
+    "yargs": "^17.7.2"
+  },
+
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "husky": "^9.2.0",
+    "jsonlint-cli": "^4.0.1",
+    "prettier": "^3.3.0"
+  },
+
+  "engines": {
+    "node": ">=18"
+  },
+
+  "license": "ISC",
+  "author": "",
+  "gitignore": "node_modules/"
 }
