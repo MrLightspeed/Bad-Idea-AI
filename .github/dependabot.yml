@@ -1,8 +1,6 @@
 # .github/dependabot.yml
 # Dependabot v2 configuration for Bad-Idea-AI
-
 version: 2
-
 updates:
   # JavaScript / Node (UI tooling, linting, site assets)
   - package-ecosystem: "npm"
@@ -17,10 +15,27 @@ updates:
     labels:
       - "dependencies"
       - "npm"
+      - "security"
     commit-message:
       prefix: "chore"
+      prefix-development: "chore(dev)"
       include: "scope"
-
+    pull-request-branch-name:
+      separator: "-"
+    allow:
+      - dependency-type: "all"
+    groups:
+      # Group all development dependencies together
+      dev-dependencies:
+        patterns:
+          - "*"
+        dependency-type: "development"
+      # Group production dependencies separately
+      production-dependencies:
+        patterns:
+          - "*"
+        dependency-type: "production"
+        
   # Ruby / Bundler (Jekyll GitHub Pages site)
   - package-ecosystem: "bundler"
     directory: "/"
@@ -34,10 +49,17 @@ updates:
     labels:
       - "dependencies"
       - "ruby"
+      - "jekyll"
     commit-message:
       prefix: "chore"
       include: "scope"
-
+    pull-request-branch-name:
+      separator: "-"
+    allow:
+      - dependency-type: "all"
+    # Specific versioning strategy for Jekyll dependencies
+    versioning-strategy: "increase"
+    
   # GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
@@ -51,6 +73,59 @@ updates:
     labels:
       - "dependencies"
       - "github-actions"
+      - "ci/cd"
     commit-message:
-      prefix: "chore"
+      prefix: "ci"
+      include: "scope"
+    pull-request-branch-name:
+      separator: "-"
+    # Group all actions updates together to reduce noise
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+          
+  # Smart Contract Dependencies (if using Hardhat/Truffle)
+  - package-ecosystem: "npm"
+    directory: "/contracts"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "07:00"
+    open-pull-requests-limit: 3
+    assignees:
+      - "MrLightspeed"
+    labels:
+      - "dependencies"
+      - "smart-contracts"
+      - "security"
+      - "high-priority"
+    commit-message:
+      prefix: "fix(contracts)"
+      include: "scope"
+    # Be more conservative with smart contract dependencies
+    versioning-strategy: "increase-if-necessary"
+    allow:
+      - dependency-type: "all"
+    # Ignore specific packages that might break contracts
+    ignore:
+      - dependency-name: "@openzeppelin/contracts"
+        versions: ["5.x", "6.x"]  # Stick to v4 for now
+        
+  # Docker dependencies
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "07:00"
+    open-pull-requests-limit: 5
+    assignees:
+      - "MrLightspeed"
+    labels:
+      - "dependencies"
+      - "docker"
+      - "infrastructure"
+    commit-message:
+      prefix: "chore(docker)"
       include: "scope"
