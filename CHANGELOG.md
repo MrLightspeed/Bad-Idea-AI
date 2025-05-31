@@ -6,6 +6,7 @@ SARAH’s latest upgrade brings a major boost in speed, reliability, and usabili
 ---
 
 ## [Unreleased]
+These notes describe changes planned for the upcoming release.
 
 ### 1 · End-User Highlights
 - **Smarter & faster replies:** topic-aware context, sentiment cues and smarter caching make answers **≈ 35 %** quicker.  
