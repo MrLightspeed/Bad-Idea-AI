@@ -12,3 +12,4 @@ together in a decentralized ecosystem.
 - Read the [README](README.md) for an overview of the project.
 - Review the [release notes](BADIDEAAI_Release_Notes.md) to see what's new.
 - Check the [listings](LISTINGS.md) page for exchanges and other resources.
+- See the [CHANGELOG](CHANGELOG.md) for a technical history of updates.
