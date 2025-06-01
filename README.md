@@ -30,7 +30,6 @@ Bad Idea AI explores how an ERC-20 token and AI-driven tools can thrive in a dec
 - **Telegram AI Bot:** Conversational assistant with persona modes and multi-language support.
 - **Decentralized Knowledgebase:** Community-driven content that keeps the bot informed.
 - **Cross-Platform Integrations:** Syncs announcements and data across Telegram and Twitter.
-- **Open Source:** Built with transparency so anyone can contribute or fork the project.
 
 ## Technical Specifications
 
