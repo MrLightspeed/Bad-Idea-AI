@@ -6,48 +6,58 @@
 [![Discussions](https://img.shields.io/badge/Chat-Discussions-blue?logo=github)](https://github.com/MrLightspeed/Bad-Idea-AI/discussions)
 [![Changelog](https://img.shields.io/badge/CHANGELOG-md-blue)](CHANGELOG.md)
 
-A meme-worthy experiment that combines blockchain, artificial intelligence and Decentralization.
+Bad Idea AI merges blockchain, artificial intelligence, and decentralization into an open experiment.
 
 ## Table of Contents
 
-- [Why Bad Idea AI?](#why-bad-idea-ai)
-- [ERC-20 Compliance](#erc-20-compliance)
-- [Solidity Code Safety](#solidity-code-safety)
-- [Community](#community)
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Technical Specifications](#technical-specifications)
+- [Security Measures](#security-measures)
+- [Community & Support](#community--support)
 - [Live Updates](#live-updates)
 - [Release Notes](#release-notes)
 - [Listings](#listings)
 - [License](#license)
 
-## Why Bad Idea AI?
+## Project Overview
 
-This project serves a unique purpose in the intersection of AI, blockchain and social experiments. It is designed to test whether AI can work alongside humans to lead society into a new golden age or result in a dystopian future.
+Bad Idea AI explores how an ERC-20 token and AI-driven tools can thrive in a decentralized ecosystem. The goal is to test whether humans and AI can collaborate to build a better future—or hilariously fail trying.
 
-## ERC-20 Compliance
+## Key Features
 
-- **Token Name**: BAD IDEA AI
-- **Symbol**: BAD
-- **Initial Supply**: 831,041,059,897,327.3110117
-- **Decimals**: 18
-- **Smart Contract Features**: The token is burnable, allowing token holders to destroy their tokens.
-- **Contract Address**: [0x32b86b99441480a7e5bd3a26c124ec2373e3f015](https://etherscan.io/address/0x32b86b99441480a7e5bd3a26c124ec2373e3f015)
-- **Interactions**: Standard ERC-20 interactions including transferring and burning of tokens. Minting is only possible during the deployment phase.
-- **Solidity Version**: 0.8.7
+- **BAD IDEA AI Token:** Burnable ERC-20 token powering the ecosystem.
+- **Telegram AI Bot:** Conversational assistant with persona modes and multi-language support.
+- **Decentralized Knowledgebase:** Community-driven content that keeps the bot informed.
+- **Cross-Platform Integrations:** Syncs announcements and data across Telegram and Twitter.
+- **Open Source:** Built with transparency so anyone can contribute or fork the project.
 
-## Solidity Code Safety
+## Technical Specifications
 
-The contract uses OpenZeppelin libraries and has been audited by [Certik](https://skynet.certik.com/projects/bad-idea). It aced 73 of 73 properties with one informational note about large numbers. See the full [Bad Idea AI Certik Audit](Bad%20Idea%20AI%20Certik%20Audit.pdf).
+- **Token Name:** BAD IDEA AI
+- **Symbol:** BAD
+- **Initial Supply:** 831,041,059,897,327.3110117
+- **Decimals:** 18
+- **Contract Address:** [0x32b86b99441480a7e5bd3a26c124ec2373e3f015](https://etherscan.io/address/0x32b86b99441480a7e5bd3a26c124ec2373e3f015)
+- **Solidity Version:** 0.8.7
+- **Features:** Burnable supply minted at deployment; standard transfer and allowance mechanics.
 
-## Community
+## Security Measures
+
+- **OpenZeppelin Libraries:** Battle-tested ERC-20 implementation for reliability.
+- **Certik Audit:** Passed 73/73 checks with one informational note—see the [full report](Bad%20Idea%20AI%20Certik%20Audit.pdf).
+
+## Community & Support
 
 - 🌐 [badidea.ai](https://badidea.ai)
 - 📰 [badideas.ai](https://badideas.ai)
 - 👥 [Telegram Group](https://t.me/badideaai)
 - 📢 [Announcements](https://t.me/Bad_Idea_AI)
+- 💬 [GitHub Discussions](https://github.com/MrLightspeed/Bad-Idea-AI/discussions)
 
 ## Live Updates
 
-We regularly push improvements to keep BAD IDEA AI running smoothly. For a deeper technical breakdown of recent changes, see the [CHANGELOG](CHANGELOG.md).
+We regularly push improvements to keep BAD IDEA AI running smoothly. For a deeper technical breakdown, see the [CHANGELOG](CHANGELOG.md).
 
 ## Release Notes
 
