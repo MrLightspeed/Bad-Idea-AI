@@ -1,19 +1,20 @@
 # Bad Idea AI
 
-[![Node](https://img.shields.io/badge/node->=18-green)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org)
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Discussions](https://img.shields.io/badge/Chat-Discussions-blue?logo=github)](https://github.com/MrLightspeed/Bad-Idea-AI/discussions)
+[![Changelog](https://img.shields.io/badge/CHANGELOG-md-blue)](CHANGELOG.md)
 
 A meme-worthy experiment that combines blockchain, artificial intelligence and Decentralization.
 
 ## Table of Contents
 
-- [Quick Start](#quick-start)
 - [Why Bad Idea AI?](#why-bad-idea-ai)
 - [ERC-20 Compliance](#erc-20-compliance)
 - [Solidity Code Safety](#solidity-code-safety)
 - [Community](#community)
+- [Live Updates](#live-updates)
 - [Release Notes](#release-notes)
 - [Listings](#listings)
 - [License](#license)
@@ -43,6 +44,10 @@ The contract uses OpenZeppelin libraries and has been audited by [Certik](https:
 - 📰 [badideas.ai](https://badideas.ai)
 - 👥 [Telegram Group](https://t.me/badideaai)
 - 📢 [Announcements](https://t.me/Bad_Idea_AI)
+
+## Live Updates
+
+We regularly push improvements to keep BAD IDEA AI running smoothly. For a deeper technical breakdown of recent changes, see the [CHANGELOG](CHANGELOG.md).
 
 ## Release Notes
 
