@@ -4,6 +4,8 @@ title: Bad Idea AI
 nav_order: 1
 ---
 
+<!-- markdownlint-disable MD025 -->
+
 # Welcome to Bad Idea AI
 
 Bad Idea AI explores how blockchain and artificial intelligence can work

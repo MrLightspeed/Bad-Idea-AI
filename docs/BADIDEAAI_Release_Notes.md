@@ -65,25 +65,30 @@ Welcome to the official release notes for BADIDEAAI! Each version builds on our 
 ## v4.0 – v4.4: Personalization, Accessibility, & Community Modes
 
 ### v4.0: Personalization Breakthrough
+
 - **Admin/User Personalization:** Set the bot's language, style, and default modes in groups and DMs. Try /start!
 - **Persona Modes:** Choose from STANDARD, PIRATE, STEVE JOBS, ELON MUSK, CRYPTO BRO, or BAD IDEA AI.
 - **Advanced Sentiment & NLP:** Even deeper understanding across languages and topics.
 - **PTB v20.7 Integration:** Full compatibility with latest Telegram features.
 
 ### v4.1: Maintenance & Scaling
+
 - **Shib Mode:** Custom mode inspired by the Shibarium Tech community.
 - **Async File Handling & Caching:** Faster file operations and improved data loading.
 - **Performance & Bug Fixes:** Stable scaling for rapid user growth.
 
 ### v4.2: Custom Community Modes
+
 - **Configurable Personas:** Communities can tailor the bot’s vibe—contact Mr. Lightspeed to experiment.
 - **Performance Tweaks:** Further speed for high-demand groups.
 
 ### v4.3: Twitter Integration Overhaul
+
 - **Async Twitter API:** Double the tweet processing speed, seamless cross-platform sync.
 - **Refactored for Simultaneity:** Handles more tweets, obeys rate limits, filters retweets to reduce spam.
 
 ### v4.4: Accessibility & “SIGNIFICANT_OTHER” Mode
+
 - **Multi-Language Twitter Announcements:** Announcements and speech in the group’s chosen language.
 - **Typing Indicator:** See when the AI is processing your request.
 - **SIGNIFICANT_OTHER Mode:** For a playful, emotional-support experience—think “Her” meets Telegram (inspired by the K9 Finance community).
