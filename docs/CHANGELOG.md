@@ -1,7 +1,8 @@
-**Executive Summary:**  
+# Executive Summary
+
 SARAH’s upgrade is faster, more reliable, and easier to use. Replies are about **35 %** quicker, a persistent **Menu 📋** button keeps controls handy, and media downloads over HTTP/2 are smoother. The stack now runs python-telegram-bot 22.1 with encrypted persistence, strict type checking, and automated CI. End users see fewer errors and tone-aware replies. Developers get a modern, maintainable codebase ready for future growth.
 
-# SARAH Changelog
+## SARAH Changelog
 
 ---
 

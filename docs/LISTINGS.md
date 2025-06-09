@@ -1,6 +1,7 @@
 # BADIDEAAI Master List of Listings
 
 ## Table of Contents
+
 - [Markets](#markets)
 - [Data Aggregators](#data-aggregators)
 - [Products and Services](#products-and-services)
@@ -10,11 +11,13 @@
 ## Markets
 
 ### DEX
+
 - [Uniswap V2 LP](https://coinmarketcap.com/dexscan/ethereum/0x29c830864930c897efa2b9e9851342187b82010e/)
 - [SushiSwap V2 LP](https://coinmarketcap.com/dexscan/ethereum/0x57fbc21ca3c157a26b6ea57334d6b082be1060a7/)
 - [ShibaSwap V2 LP](https://coinmarketcap.com/dexscan/ethereum/0x6f4a05f54172e53d9f937a46f3ab9aca4f1dbd6e/)
 
 ### CEX
+
 - [Bitget](https://www.bitget.com/en/spot/badusdt_SPBL?type=spot)
 - [MEXC](https://www.mexc.com/exchange/BAD_USDT)
 - [BitMart](https://www.bitmart.com/trade/en-US?symbol=BAD_USDT&layout=pro)
@@ -26,7 +29,6 @@
 
 ## Data Aggregators
 
-- [CoinMarketCap](https://coinmarketcap.com/currencies/bad-idea-ai) (verified circulation supply)
 - [CoinGecko](https://www.coingecko.com/en/coins/bad-idea-ai) (verified circulation supply)
 - [LiveCoinWatch](https://www.livecoinwatch.com/price/BADIDEAAI-_BAD) (verified circulation supply)
 - [CoinPaprika](https://coinpaprika.com/coin/bad-bad-idea-ai/) (verified circulation supply)
@@ -48,14 +50,17 @@
 ## Products and Services
 
 ### Fiat-to-Bad Swaps
+
 - [ChangeNOW](https://changenow.io/buy/bad-eth)
 - [Guardarian](https://guardarian.com/buy-bad)
 
 ### Whitelisted Swaps
+
 - [1inch](https://app.1inch.io/#/1/simple/swap/ETH/BAD)
 - [Uniswap](https://app.uniswap.org/swap?outputCurrency=0x32b86b99441480a7e5bd3a26c124ec2373e3f015)
 
 ### Wallets
+
 - [Metamask](https://portfolio.metamask.io/networks/1/tokens/bad-idea-ai/0x32b86b99441480a7e5bd3a26c124ec2373e3f015)
 - [Tangem](https://tangem.com/en/blog/post/bad-idea-ai-tangem/)
 - [SafePal](https://www.safepal.com/en/coin/lists)
