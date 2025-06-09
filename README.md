@@ -4,9 +4,11 @@
 [![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Discussions](https://img.shields.io/badge/Chat-Discussions-blue?logo=github)](https://github.com/MrLightspeed/Bad-Idea-AI/discussions)
-[![Changelog](https://img.shields.io/badge/CHANGELOG-md-blue)](CHANGELOG.md)
+[![Changelog](https://img.shields.io/badge/CHANGELOG-md-blue)](docs/CHANGELOG.md)
 
 Bad Idea AI merges blockchain, artificial intelligence, and decentralization into an open experiment.
+
+Full project documentation lives in the [docs](docs/) directory.
 
 ## Table of Contents
 
@@ -44,7 +46,7 @@ Bad Idea AI explores how an ERC-20 token and AI-driven tools can thrive in a dec
 ## Security Measures
 
 - **OpenZeppelin Libraries:** Battle-tested ERC-20 implementation for reliability.
-- **Certik Audit:** Passed 73/73 checks with one informational note—see the [full report](Bad%20Idea%20AI%20Certik%20Audit.pdf).
+- **Certik Audit:** Passed 73/73 checks with one informational note—see the [full report](docs/assets/Bad%20Idea%20AI%20Certik%20Audit.pdf).
 
 ## Community & Support
 
@@ -56,15 +58,15 @@ Bad Idea AI explores how an ERC-20 token and AI-driven tools can thrive in a dec
 
 ## Live Updates
 
-We regularly push improvements to keep BAD IDEA AI running smoothly. For a deeper technical breakdown, see the [CHANGELOG](CHANGELOG.md).
+We regularly push improvements to keep BAD IDEA AI running smoothly. For a deeper technical breakdown, see the [CHANGELOG](docs/CHANGELOG.md).
 
 ## Release Notes
 
-- [AI Chatbot Release Notes](BADIDEAAI_Release_Notes.md)
+- [AI Chatbot Release Notes](docs/BADIDEAAI_Release_Notes.md)
 
 ## Listings
 
-- [Listings](LISTINGS.md)
+- [Listings](docs/LISTINGS.md)
 
 ## License
 
