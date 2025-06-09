@@ -29,6 +29,7 @@
 
 ## Data Aggregators
 
+- [CoinMarketCap](https://coinmarketcap.com/currencies/bad-idea-ai) (verified circulation supply)
 - [CoinGecko](https://www.coingecko.com/en/coins/bad-idea-ai) (verified circulation supply)
 - [LiveCoinWatch](https://www.livecoinwatch.com/price/BADIDEAAI-_BAD) (verified circulation supply)
 - [CoinPaprika](https://coinpaprika.com/coin/bad-bad-idea-ai/) (verified circulation supply)
