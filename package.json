@@ -21,9 +21,9 @@
   },
   "devDependencies": {
     "@prantlf/jsonlint": "^16.0.0",
-    "eslint": "^9.28.0",
+    "eslint": "^9.30.0",
     "husky": "^9.1.7",
-    "prettier": "^3.5.3"
+    "prettier": "^3.6.2"
   },
   "engines": {
     "node": ">=22"
