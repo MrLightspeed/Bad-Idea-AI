@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "core-js": "^3.42.0",
-    "glob": "^11.0.2",
+    "glob": "^12.0.0",
     "lru-cache": "^11.1.0",
     "minimatch": "^10.2.5",
     "mkdirp": "^3.0.1",
