@@ -12,9 +12,9 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "core-js": "^3.42.0",
-    "glob": "^12.0.0",
-    "lru-cache": "^11.1.0",
+    "core-js": "^3.49.0",
+    "glob": "^13.0.6",
+    "lru-cache": "^11.3.6",
     "minimatch": "^10.2.5",
     "mkdirp": "^3.0.1",
     "yargs": "^18.0.0"
