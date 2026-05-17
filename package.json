@@ -20,10 +20,10 @@
     "yargs": "^18.0.0"
   },
   "devDependencies": {
-    "@prantlf/jsonlint": "^17.0.0",
-    "eslint": "^9.39.2",
+    "@prantlf/jsonlint": "^17.0.1",
+    "eslint": "^10.4.0",
     "husky": "^9.1.7",
-    "prettier": "^3.8.0"
+    "prettier": "^3.8.3"
   },
   "engines": {
     "node": ">=22"
